@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Accept (1)</name>
+   <tag></tag>
+   <elementGuidId>dacc9eaf-d185-4e9d-8f77-ded652df4031</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='healthWithdrawalEPengeluaranDeclarationContinueBtn_btn']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#healthWithdrawalEPengeluaranDeclarationContinueBtn_btn</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Accept&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>4db4698b-5c15-433b-8164-59d39815fc94</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>healthWithdrawalEPengeluaranDeclarationContinueBtn_btn</value>
+      <webElementGuid>dade295c-0854-4301-b938-fba0bfddeb40</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>0554dc61-7151-40c0-83b1-2398455d56b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Accept
+</value>
+      <webElementGuid>a44b7617-dc9f-496c-b98b-ccb643c5cde4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;healthWithdrawalEPengeluaranDeclarationContinueBtn_btn&quot;)</value>
+      <webElementGuid>693b57ee-7ce2-421d-9661-0b27b0ee376e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='healthWithdrawalEPengeluaranDeclarationContinueBtn_btn']</value>
+      <webElementGuid>2ebbc8d5-ef45-4117-be4d-c95a4a5fa224</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//app-button-primary-large[@id='healthWithdrawalEPengeluaranDeclarationContinueBtn']/button</value>
+      <webElementGuid>c403621f-b576-4d3e-a667-25256f31def5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Withdrawal Declaration'])[1]/following::button[1]</value>
+      <webElementGuid>d885bb5c-f1af-4c12-b353-9afa440d0c2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Log Out'])[1]/following::button[1]</value>
+      <webElementGuid>ac20e984-9532-4a57-8323-8834d2056a37</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Decline'])[1]/preceding::button[1]</value>
+      <webElementGuid>36f7fc16-35e0-4877-8374-64f2317817cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EN'])[2]/preceding::button[2]</value>
+      <webElementGuid>bbd13b46-f752-4ccc-a53c-09a6e3620e23</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Accept']/parent::*</value>
+      <webElementGuid>fff117bf-f6e3-467b-bbd6-bea53e93189d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-button-primary-large/button</value>
+      <webElementGuid>a295d63a-869b-43aa-bc5b-5696910e502d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'healthWithdrawalEPengeluaranDeclarationContinueBtn_btn' and @type = 'button' and (text() = ' Accept
+' or . = ' Accept
+')]</value>
+      <webElementGuid>6452913c-026f-4025-9161-c3e7fb4a4ab4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

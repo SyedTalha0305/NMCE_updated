@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Accept (1)</name>
+   <tag></tag>
+   <elementGuidId>c4079010-aaef-4747-8609-5660352f67e2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#withdrawalReduceHseTncAcceptBtn_btn</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='withdrawalReduceHseTncAcceptBtn_btn']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Accept&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>d7d45925-0634-4126-bfda-000348a951ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>withdrawalReduceHseTncAcceptBtn_btn</value>
+      <webElementGuid>68ab77e9-1128-4f13-a9b1-1c575fd8672e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>2f05ceb6-1d3b-4926-806a-e5dfb157e85b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Accept
+</value>
+      <webElementGuid>1cb984f2-f0a9-460c-9336-1d2b72151d26</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;withdrawalReduceHseTncAcceptBtn_btn&quot;)</value>
+      <webElementGuid>0b28dee1-c4af-494e-8c47-a5ea97e27e10</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='withdrawalReduceHseTncAcceptBtn_btn']</value>
+      <webElementGuid>c2d4b06c-3003-4ded-b5d8-de893e1e13f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//app-button-primary-large[@id='withdrawalReduceHseTncAcceptBtn']/button</value>
+      <webElementGuid>c103f9c4-a70a-4645-a711-f237b27cc1dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Decline'])[1]/preceding::button[1]</value>
+      <webElementGuid>0f30f390-5e9a-421f-81b6-e5226bede75d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EN'])[2]/preceding::button[2]</value>
+      <webElementGuid>50ea82cd-d308-4d69-92b1-bd5cecd66a59</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Accept']/parent::*</value>
+      <webElementGuid>48e98883-600a-4340-a881-4dc7013960cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-button-primary-large/button</value>
+      <webElementGuid>e2666bd6-3549-4f86-bbec-cb1b78bb5bef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'withdrawalReduceHseTncAcceptBtn_btn' and @type = 'button' and (text() = ' Accept
+' or . = ' Accept
+')]</value>
+      <webElementGuid>b4f6ec0d-9984-4cdb-86e5-56f6e46cbb81</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

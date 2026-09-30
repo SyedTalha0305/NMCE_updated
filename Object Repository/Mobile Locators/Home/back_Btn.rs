@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MobileElementEntity>
+   <description></description>
+   <name>back_Btn</name>
+   <tag></tag>
+   <elementGuidId>9ede034f-325c-4caf-bc26-aa5a0ce6ca23</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <locatorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>ACCESSIBILITY</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>ANDROID_UI_AUTOMATOR</key>
+         <value>new UiSelector()</value>
+      </entry>
+      <entry>
+         <key>ID</key>
+         <value>com.mip.sit.epf:id/.Icon.Button</value>
+      </entry>
+   </locatorCollection>
+   <locatorStrategy>ID</locatorStrategy>
+   <platform>ANDROID</platform>
+</MobileElementEntity>

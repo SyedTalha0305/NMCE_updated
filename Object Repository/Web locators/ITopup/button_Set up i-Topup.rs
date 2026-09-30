@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Set up i-Topup</name>
+   <tag></tag>
+   <elementGuidId>dd1f0005-7234-41b6-9ab7-09ae5a62655c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#contributionButtonContinue_btn</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='contributionButtonContinue_btn']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Set up i-Topup&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>ddd7c57a-06c6-440f-a129-441a0df1718c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>contributionButtonContinue_btn</value>
+      <webElementGuid>fb161096-a84b-4d10-a53c-62e8a6f98c73</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>a53cde4d-3354-431e-8317-3ad16bf90300</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Set up i-Topup
+</value>
+      <webElementGuid>69282568-822a-4815-8823-2b1c835ade0c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[1]/app-root[1]/div[1]/app-general-layout[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;min-h-100&quot;]/div[@class=&quot;wide-screen-layout&quot;]/div[@class=&quot;d-flex justify-content-start align-items-start w-100 h-100 general-layout&quot;]/div[@class=&quot;card-wrap h-100&quot;]/div[@class=&quot;w-100 router-outlet&quot;]/app-i-topup-details[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;main-body-box&quot;]/div[@class=&quot;inner-body&quot;]/div[@class=&quot;selection&quot;]/div[@class=&quot;bottom-section&quot;]/div[@class=&quot;apply-btn mx-auto mt-4&quot;]/div[@class=&quot;next-btn w-25&quot;]/app-button-primary-large[@id=&quot;contributionButtonContinue&quot;]/button[@id=&quot;contributionButtonContinue_btn&quot;]</value>
+      <webElementGuid>c1c69f48-bc70-4222-aafe-e592a7ff10bc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='contributionButtonContinue_btn']</value>
+      <webElementGuid>73d373dc-74da-4d10-92d7-37f047e025b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//app-button-primary-large[@id='contributionButtonContinue']/button</value>
+      <webElementGuid>e3488ae6-03f5-4bf7-b2cc-036710f31920</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='You don’t have any i-Topup contribution yet. Start today to increase your retirement savings.'])[1]/following::button[1]</value>
+      <webElementGuid>7e49f183-3b68-4dda-afbc-ec6953999194</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='i-Topup Records'])[1]/following::button[1]</value>
+      <webElementGuid>dffe5520-a790-4424-95d0-fe78c034c75f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View records'])[1]/preceding::button[1]</value>
+      <webElementGuid>7a065303-b4b9-4f52-a95d-26db24b74eef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EN'])[2]/preceding::button[2]</value>
+      <webElementGuid>e05b6a81-c110-4d78-895c-8c404c319016</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Set up i-Topup']/parent::*</value>
+      <webElementGuid>aaa76158-e15d-4894-af62-db733a46419d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-button-primary-large/button</value>
+      <webElementGuid>94681b7d-f424-4f71-9f3b-d9c0b3ecdbac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'contributionButtonContinue_btn' and @type = 'button' and (text() = ' Set up i-Topup
+' or . = ' Set up i-Topup
+')]</value>
+      <webElementGuid>3d2e7fcd-e4ba-4cbd-a612-3260737d7594</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

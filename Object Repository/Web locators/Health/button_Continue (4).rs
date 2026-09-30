@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Continue (4)</name>
+   <tag></tag>
+   <elementGuidId>fd2772d1-74ab-4332-9a19-2e957ce5c1a7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='healthWithdrawalWithdrawingDetailContinueBtn_btn']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#healthWithdrawalWithdrawingDetailContinueBtn_btn</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Continue&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>c5f0f380-dbd6-429d-92c8-8d6ec5236d75</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>healthWithdrawalWithdrawingDetailContinueBtn_btn</value>
+      <webElementGuid>74aca67b-df85-4d32-b023-e2d99129ab0b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>6ef5ee23-1d5b-4525-86f9-d5556602f0c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Continue
+</value>
+      <webElementGuid>388b74f5-88a8-4e5e-b77c-9638a1451e66</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;healthWithdrawalWithdrawingDetailContinueBtn_btn&quot;)</value>
+      <webElementGuid>d4272991-0016-495f-8776-204adf6f20ee</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='healthWithdrawalWithdrawingDetailContinueBtn_btn']</value>
+      <webElementGuid>f16d1062-71e2-401e-b30d-bc3d034df284</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//app-button-primary-large[@id='healthWithdrawalWithdrawingDetailContinueBtn']/button</value>
+      <webElementGuid>e604c615-edb3-4885-943e-98a6f426d20e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Not Sponsored / Personal Insurance'])[1]/following::button[1]</value>
+      <webElementGuid>50309ac1-559f-4b5c-845e-9ae3b768a562</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Sponsorship Type'])[1]/following::button[1]</value>
+      <webElementGuid>c0521608-10e5-4633-aa66-27ca3d4dd979</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EN'])[2]/preceding::button[1]</value>
+      <webElementGuid>fe9ab51f-84c4-41e9-9a06-15a1e1eb14f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Continue']/parent::*</value>
+      <webElementGuid>caee0603-02ac-4421-a5ca-233542e5be75</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-button-primary-large/button</value>
+      <webElementGuid>cdaa1a4e-f7c8-4bba-9ffc-e291358939ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'healthWithdrawalWithdrawingDetailContinueBtn_btn' and @type = 'button' and (text() = ' Continue
+' or . = ' Continue
+')]</value>
+      <webElementGuid>8035abcb-caa6-4217-83fe-d0de3ac4e2c0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

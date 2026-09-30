@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Continue_1 (2)</name>
+   <tag></tag>
+   <elementGuidId>ea19b745-ee1c-4b72-8fea-754e069428f3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#withdrawalBuy1HseEnterAmountSubmitBtn_btn</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='withdrawalBuy1HseEnterAmountSubmitBtn_btn']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Continue&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>d070cd68-bb3b-4489-9aea-f0b6d35bf426</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>withdrawalBuy1HseEnterAmountSubmitBtn_btn</value>
+      <webElementGuid>8f42004d-dd2f-428c-9629-dc60d6411c74</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>55d71187-7d8d-4d5a-b7ab-179b30807f6c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Continue
+</value>
+      <webElementGuid>132424f6-5ed6-4689-a5b3-f849b50ff29c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;withdrawalBuy1HseEnterAmountSubmitBtn_btn&quot;)</value>
+      <webElementGuid>f71be5b2-4899-4443-ae8b-c851b67a8197</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='withdrawalBuy1HseEnterAmountSubmitBtn_btn']</value>
+      <webElementGuid>471213e2-5bb7-4fc6-876b-fb0c456f619d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//app-button-primary-large[@id='withdrawalBuy1HseEnterAmountSubmitBtn']/button</value>
+      <webElementGuid>cb8555ac-65cd-4ab0-a793-201c8dc17302</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Your withdrawal amount'])[1]/following::button[1]</value>
+      <webElementGuid>0ca0baf8-af48-4fed-82ee-c340d5873e7e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EN'])[2]/preceding::button[1]</value>
+      <webElementGuid>2ce248c9-5a0c-4671-b282-9573e06a95d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Continue']/parent::*</value>
+      <webElementGuid>3292e86d-4d68-4de4-b170-4ef01056a9a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-button-primary-large/button</value>
+      <webElementGuid>b57d6710-85d8-42db-a820-fceaa3aacd9e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'withdrawalBuy1HseEnterAmountSubmitBtn_btn' and @type = 'button' and (text() = ' Continue
+' or . = ' Continue
+')]</value>
+      <webElementGuid>a2a01183-d201-47ea-80a7-c6aee3349e68</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

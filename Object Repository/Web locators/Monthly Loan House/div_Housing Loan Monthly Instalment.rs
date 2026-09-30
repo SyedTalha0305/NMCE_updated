@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Housing Loan Monthly Instalment</name>
+   <tag></tag>
+   <elementGuidId>7c3ce30a-36c6-472d-a80a-cf064dc7ce90</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='MTHHLNINS'] | (.//*[normalize-space(text()) and normalize-space(.)='Housing Loan Monthly Instalment'])</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#MTHHLNINS</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#MTHHLNINS</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>972e868d-e124-4714-9294-c9dc1d2c9a11</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-item ng-star-inserted</value>
+      <webElementGuid>7e167fe3-a7b3-4ffb-9f6c-8cc698ba0317</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>MTHHLNINS</value>
+      <webElementGuid>23cfcf1d-7f06-4591-b328-fdf65169db3e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Housing Loan Monthly Instalment</value>
+      <webElementGuid>d1fc6584-1e63-4d60-928f-08448db65260</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;MTHHLNINS&quot;)</value>
+      <webElementGuid>de791892-50dc-43db-9115-3838e928d50b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='MTHHLNINS']</value>
+      <webElementGuid>d401f9f6-5bb6-4706-bea8-7f49065d1535</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Health'])[1]/following::div[1]</value>
+      <webElementGuid>105a6a51-ca83-40a1-97d8-1149159fc4fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Education'])[1]/following::div[2]</value>
+      <webElementGuid>b5263d19-ae54-4cd7-880d-0e8e450affa4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reduce/Redeem Housing Loan'])[1]/preceding::div[1]</value>
+      <webElementGuid>61335402-e2f4-4562-945b-49b43ee442a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[5]</value>
+      <webElementGuid>814fc6ba-77f3-469a-bef3-1725f4c6c99f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'MTHHLNINS' and (text() = 'Housing Loan Monthly Instalment' or . = 'Housing Loan Monthly Instalment')]</value>
+      <webElementGuid>7f7ba9f0-2ad0-4eee-8011-d949e3140ca8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

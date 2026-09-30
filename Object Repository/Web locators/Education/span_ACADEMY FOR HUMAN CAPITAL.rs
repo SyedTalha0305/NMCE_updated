@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_ACADEMY FOR HUMAN CAPITAL</name>
+   <tag></tag>
+   <elementGuidId>3503a773-56a0-42d9-9d29-5aa8379b71bf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-option[@id='mat-option-102']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#mat-option-102 > span.mat-option-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#mat-option-102 >> internal:text=&quot;ACADEMY FOR HUMAN CAPITAL&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>467b3dcb-087a-4805-88b5-f8c8f84cefeb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-option-text</value>
+      <webElementGuid>fa095d72-c996-4f9d-a6cc-2d1bd10ae511</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> ACADEMY FOR HUMAN CAPITAL </value>
+      <webElementGuid>a6b71d77-17b2-4f67-b485-a7626993cf5b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-option-102&quot;)/span[@class=&quot;mat-option-text&quot;]</value>
+      <webElementGuid>c6ec05b1-98bc-46bf-b777-96cb210e5ee8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-option[@id='mat-option-102']/span</value>
+      <webElementGuid>15020d7b-9bfa-4096-8c62-2186b195abc5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Institution'])[2]/following::span[1]</value>
+      <webElementGuid>a67b7d2a-ffd9-4fe5-9293-3925d6a9cc11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EN'])[2]/following::span[2]</value>
+      <webElementGuid>813dca07-ff08-4c13-aa68-abfc7c79efc1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ACADEMY FOR HUMAN CAPITAL'])[2]/preceding::span[1]</value>
+      <webElementGuid>4e887db1-cd03-4dd9-a293-e9ea48b6af3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ALLIED AERONAUTICS TRAINING CENTRE'])[1]/preceding::span[2]</value>
+      <webElementGuid>c6978c43-a761-42e6-bef5-6c397e20474a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='ACADEMY FOR HUMAN CAPITAL']/parent::*</value>
+      <webElementGuid>c1f432e9-1704-4e47-a1f9-4eca6d6e5ce2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-option[2]/span</value>
+      <webElementGuid>e03468f0-d502-45c4-8301-eeb3fd82b17a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' ACADEMY FOR HUMAN CAPITAL ' or . = ' ACADEMY FOR HUMAN CAPITAL ')]</value>
+      <webElementGuid>11d2f965-7384-4de9-ac93-2020ac33a4e2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

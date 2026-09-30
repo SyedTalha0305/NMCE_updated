@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Selesai_Seterusnya</name>
+   <tag></tag>
+   <elementGuidId>0455e9d8-91a3-46c2-b7c4-157a08ed90bb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='ilifeClose_btn']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#ilifeClose_btn</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Selesai&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>aebefe32-9096-4188-abda-0a979e34b9d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ilifeClose_btn</value>
+      <webElementGuid>3cd6d914-26fe-4e83-877a-0e7edd26fb00</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>2863cb6a-8590-4266-8c5b-70d47316c60b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Selesai
+</value>
+      <webElementGuid>6daabee1-9327-4804-be66-b9de7f8fa243</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ilifeClose_btn&quot;)</value>
+      <webElementGuid>0c203eb1-7e69-4967-837d-9349b535537f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='ilifeClose_btn']</value>
+      <webElementGuid>81bcbd39-f140-4fab-ba78-164719569d3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//app-button-primary-large[@id='ilifeClose']/button</value>
+      <webElementGuid>71618f65-63f4-4266-af2f-b8160e8ac4a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Slide 1 of 1'])[2]/following::button[1]</value>
+      <webElementGuid>c4eff3ee-620c-4cd1-a9cc-f4a81b044995</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Selesai'])[1]/following::button[2]</value>
+      <webElementGuid>53b1e99e-6f3f-43f5-8cba-2be4c65d0dbe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Slide 1 of 1'])[3]/preceding::button[2]</value>
+      <webElementGuid>ba6afdbf-d78e-4bc0-bc39-43b17ea26135</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Selesai'])[3]/preceding::button[2]</value>
+      <webElementGuid>4d05ebab-e3a1-4c87-b3a2-ad40abf4c1e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div/app-button-primary-large/button</value>
+      <webElementGuid>439a0fd3-a46e-484c-b3a5-0378458a6976</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'ilifeClose_btn' and @type = 'button' and (text() = ' Selesai
+' or . = ' Selesai
+')]</value>
+      <webElementGuid>e5524c9f-4824-47da-b624-78060f0e13a1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

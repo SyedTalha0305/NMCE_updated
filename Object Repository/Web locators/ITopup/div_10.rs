@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_10</name>
+   <tag></tag>
+   <elementGuidId>9c88f511-f3c5-40dd-93f4-5f12f6b0d7e9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Note: Maximum i-Topup = 50% - current contribution rate'])[1]/following::div[5]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;10%&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>0579e543-7650-411b-bc2f-f5645763d9ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>box ng-star-inserted</value>
+      <webElementGuid>7b795834-3714-4bc9-84e3-3a0dd4bb5c6d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> 10% </value>
+      <webElementGuid>e0cf49a3-2de5-4a98-9a1c-522191ec59e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[1]/app-root[1]/div[1]/app-general-layout[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;min-h-100&quot;]/div[@class=&quot;wide-screen-layout&quot;]/div[@class=&quot;d-flex justify-content-start align-items-start w-100 h-100 general-layout&quot;]/div[@class=&quot;card-wrap h-100&quot;]/div[@class=&quot;w-100 router-outlet&quot;]/app-i-topup-register[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;main-body-box&quot;]/div[@class=&quot;inner-body&quot;]/form[@class=&quot;ng-untouched ng-pristine ng-invalid ng-star-inserted&quot;]/div[@class=&quot;top-section&quot;]/div[@class=&quot;right-body&quot;]/div[@class=&quot;form-fields&quot;]/div[@class=&quot;amount-boxes&quot;]/div[@class=&quot;box ng-star-inserted&quot;]</value>
+      <webElementGuid>37c4112a-db97-46f2-91c1-8af478f3b648</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Note: Maximum i-Topup = 50% - current contribution rate'])[1]/following::div[5]</value>
+      <webElementGuid>70f0459d-828f-4a13-a420-ac65f06b6893</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Other'])[1]/preceding::div[2]</value>
+      <webElementGuid>08e66f5a-e952-4e3f-9f1d-2c07fcceb317</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Continue'])[1]/preceding::div[3]</value>
+      <webElementGuid>e8ca1fc8-9474-4059-960b-3e25ac923283</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='10%']/parent::*</value>
+      <webElementGuid>c3930a03-586d-40ad-8444-c5df4f85eac3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div[4]</value>
+      <webElementGuid>5f453a78-8a60-4966-b95f-571ca8a1dd97</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' 10% ' or . = ' 10% ')]</value>
+      <webElementGuid>7e83e396-37fa-43b8-a3c3-35ae9d8118db</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

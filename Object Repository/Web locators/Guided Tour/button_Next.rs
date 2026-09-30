@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Next</name>
+   <tag></tag>
+   <elementGuidId>d2f046ef-e51e-41ef-bdf1-eed9f6467ae5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#dashNext_btn</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='dashNext_btn']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Next&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>84447be6-9218-4be9-9c3b-6a4cbcec903f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>dashNext_btn</value>
+      <webElementGuid>cae4d605-5d1a-4179-9289-4cbf94f85162</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>e6016d7f-f8ab-4e3c-942f-efd2e782cd87</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Next
+</value>
+      <webElementGuid>4448af67-347d-42b5-943e-8804b29e3482</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dashNext_btn&quot;)</value>
+      <webElementGuid>5a1b8b47-642c-4a59-9962-726ebb657e53</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='dashNext_btn']</value>
+      <webElementGuid>0f5d1502-76ad-436f-9c1a-289fbcfb347c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//app-button-primary-large[@id='dashNext']/button</value>
+      <webElementGuid>0f60e623-2e7c-48df-9687-8222a89b271b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Slide 4 of 4'])[2]/following::button[1]</value>
+      <webElementGuid>822204a5-02bd-410c-9650-e97cc981a902</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Slide 3 of 4'])[2]/following::button[1]</value>
+      <webElementGuid>420d4d80-fa3a-41ca-8d7d-55a3f9761aa1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Previous'])[2]/preceding::button[1]</value>
+      <webElementGuid>f19be197-3c7f-4974-90c2-f19960727b2a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Slide 1 of 1'])[1]/preceding::button[3]</value>
+      <webElementGuid>e1a0404b-8127-47e1-98a3-f6e3085756ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-coach-mark/div/div/div/div/div/app-button-primary-large/button</value>
+      <webElementGuid>360d82ff-d4c9-4228-9ec4-90d53c504111</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'dashNext_btn' and @type = 'button' and (text() = ' Next
+' or . = ' Next
+')]</value>
+      <webElementGuid>210d2783-19ab-41a6-91c3-608fd5bb3b19</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

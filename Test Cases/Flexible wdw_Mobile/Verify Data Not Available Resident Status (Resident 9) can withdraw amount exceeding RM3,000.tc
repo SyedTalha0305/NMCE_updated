@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify Data Not Available Resident Status (Resident 9) can withdraw amount exceeding RM3,000</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>477c0386-ea34-4e5b-a917-2325538eeffe</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>ea2e6814-55ad-4c0b-b9e3-dda1a1d07b2a</id>
+      <iterationEntity>
+         <iterationType>SPECIFIC</iterationType>
+         <value>2</value>
+      </iterationEntity>
+      <testDataId>Data Files/Test Data</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>ea2e6814-55ad-4c0b-b9e3-dda1a1d07b2a</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>USERNAME</value>
+      <variableId>82c9b7a5-4815-47be-83f2-deb9e2ae6b2b</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>ea2e6814-55ad-4c0b-b9e3-dda1a1d07b2a</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>PASSWORD</value>
+      <variableId>0a49d63c-c59c-478b-90cc-c318386e4a77</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>82c9b7a5-4815-47be-83f2-deb9e2ae6b2b</id>
+      <masked>false</masked>
+      <name>USERNAME</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0a49d63c-c59c-478b-90cc-c318386e4a77</id>
+      <masked>false</masked>
+      <name>PASSWORD</name>
+   </variable>
+</TestCaseEntity>

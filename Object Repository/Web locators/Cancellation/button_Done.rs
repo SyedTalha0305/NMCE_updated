@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Done</name>
+   <tag></tag>
+   <elementGuidId>4d080946-410c-4fdf-8180-3d2b9ba86f54</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='doneProf_btn']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#doneProf_btn</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Done&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>5aaf8e3f-88f1-4078-a008-294c3513858f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>doneProf_btn</value>
+      <webElementGuid>a9e82f27-e1a8-4206-9c2f-e9abb65f4e15</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>cc70188c-4f56-436f-91ec-8c6ee1764b75</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Done
+</value>
+      <webElementGuid>3efa6f11-9d79-48b7-bc77-2166ac5d037a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;doneProf_btn&quot;)</value>
+      <webElementGuid>879f6e4b-0d75-43f0-8b4c-2c64ff19865f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='doneProf_btn']</value>
+      <webElementGuid>a4ad64f8-9f72-4ae5-9e73-357de8030437</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//app-button-primary-large[@id='doneProf']/button</value>
+      <webElementGuid>16857d83-c090-452c-8863-ecd1ef9ac0f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Slide 1 of 1'])[3]/following::button[1]</value>
+      <webElementGuid>e89d068a-0846-44be-a914-5846a978fcf7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Done'])[2]/following::button[2]</value>
+      <webElementGuid>a003584a-5f8e-403b-adbb-fe21f839836e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div/div/app-button-primary-large/button</value>
+      <webElementGuid>d331a2d0-b0f8-4dd0-982d-8f72ebb01abc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'doneProf_btn' and @type = 'button' and (text() = ' Done
+' or . = ' Done
+')]</value>
+      <webElementGuid>cf671991-e97f-441b-98ea-53ddd206ddb9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

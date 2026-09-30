@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Employer Name_mat-focus-indicator ma_4e5eec</name>
+   <tag></tag>
+   <elementGuidId>2a622878-f1ff-4479-90a1-60f1c7fabcf7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.mat-focus-indicator.mat-icon-button.mat-button-base</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[8]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Open calendar&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>72e554fd-0929-41a5-a652-483cbe1f485e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>e4bd866f-2b4a-4977-9119-8835196dacdd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-focus-indicator mat-icon-button mat-button-base</value>
+      <webElementGuid>20da99ff-e77b-4282-8ce3-eb1a2fe49081</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Open calendar</value>
+      <webElementGuid>b186dc8a-8b5c-4451-8738-139686bea0ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>f5296191-0aac-4d91-a428-f8139bb8f9f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[1]/app-root[1]/div[1]/app-general-layout[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;min-h-100&quot;]/div[@class=&quot;wide-screen-layout&quot;]/div[@class=&quot;d-flex justify-content-start align-items-start w-100 h-100 general-layout&quot;]/div[@class=&quot;card-wrap h-100&quot;]/div[@class=&quot;w-100 router-outlet&quot;]/app-i-topup-register[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;main-body-box&quot;]/div[@class=&quot;inner-body&quot;]/form[@class=&quot;ng-untouched ng-pristine ng-valid ng-star-inserted&quot;]/div[@class=&quot;top-section&quot;]/div[@class=&quot;right-body&quot;]/div[@class=&quot;form-fields&quot;]/mat-form-field[@class=&quot;mat-form-field w-100 date month-picker ng-tns-c62-5 mat-primary mat-form-field-type-mat-input mat-form-field-appearance-fill mat-form-field-can-float mat-form-field-should-float mat-form-field-has-label ng-untouched ng-pristine ng-valid ng-star-inserted&quot;]/div[@class=&quot;mat-form-field-wrapper ng-tns-c62-5&quot;]/div[@class=&quot;mat-form-field-flex ng-tns-c62-5&quot;]/div[@class=&quot;mat-form-field-infix ng-tns-c62-5&quot;]/div[@class=&quot;d-flex justify-content-between ng-tns-c62-5&quot;]/mat-datepicker-toggle[@class=&quot;mat-datepicker-toggle&quot;]/button[@class=&quot;mat-focus-indicator mat-icon-button mat-button-base&quot;]</value>
+      <webElementGuid>2aef8cf5-e787-4ffb-b1cd-3c020fcc8ed5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[8]</value>
+      <webElementGuid>2346b81f-8ce4-402f-818d-39bb1d2c2abf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Employer Name'])[1]/following::button[1]</value>
+      <webElementGuid>374c87bb-4d8f-401e-a26f-ac4dbcf25f12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select your employer &amp; effective month'])[1]/following::button[1]</value>
+      <webElementGuid>e4a6e97d-b5a2-478f-ba43-a4b0089f91b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Month'])[1]/preceding::button[1]</value>
+      <webElementGuid>98738950-af3a-4497-a347-92bdc3cd02af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Continue'])[1]/preceding::button[1]</value>
+      <webElementGuid>575bc65b-f3b5-4d34-9a48-b55e706a7fb0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-datepicker-toggle/button</value>
+      <webElementGuid>37df7ba4-d0a5-4184-8bc8-aeae812c4dda</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button']</value>
+      <webElementGuid>cc3e3d6d-ce36-4abb-9f64-d1091b090112</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

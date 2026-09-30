@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Use Another Bank Account - Buy</name>
+   <tag></tag>
+   <elementGuidId>3f520f65-7338-4a78-b21a-ca921768d780</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#withdrawalBankButtonAnotherBank_btn</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='withdrawalBankButtonAnotherBank_btn'] | (//button[@type='button'])[8]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Use Another Bank Account&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>4dd88717-265e-46e7-937e-d220e269c7f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>withdrawalBankButtonAnotherBank_btn</value>
+      <webElementGuid>7287d9e4-cc10-47a0-85d5-d1192f8cb5e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>37c3ab0b-eccb-4c7f-ad5f-52c943217e33</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Use Another Bank Account
+</value>
+      <webElementGuid>dcd875e0-4e25-4185-95c0-e8bb51a1ea4f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;withdrawalBankButtonAnotherBank_btn&quot;)</value>
+      <webElementGuid>04f229f9-b0fc-44b6-a7e8-f9dc48f8bf35</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='withdrawalBankButtonAnotherBank_btn']</value>
+      <webElementGuid>fd4facec-312d-47cb-ae1e-5fbf75d9900a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//app-button-secondary-large[@id='withdrawalBankButtonAnotherBank']/button</value>
+      <webElementGuid>ce4c9558-f616-4e0d-9337-0662445890a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select bank for credits'])[1]/following::button[1]</value>
+      <webElementGuid>f2d33707-84dc-496e-b1f0-698f40c113c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EN'])[2]/preceding::button[1]</value>
+      <webElementGuid>1ff3dc89-8332-49a9-a49d-d1d0845a19e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Use Another Bank Account']/parent::*</value>
+      <webElementGuid>347073a1-463b-4361-b039-d4f7cbe2de41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-button-secondary-large/button</value>
+      <webElementGuid>53545bd2-9c2c-4932-850a-0dbb53b57647</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'withdrawalBankButtonAnotherBank_btn' and @type = 'button' and (text() = ' Use Another Bank Account
+' or . = ' Use Another Bank Account
+')]</value>
+      <webElementGuid>f41c3490-81e8-465d-a6e3-ca86f1921b43</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

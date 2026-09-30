@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Select Start Date_mat-focus-indicato_ef01f9</name>
+   <tag></tag>
+   <elementGuidId>e445a445-5bce-430d-b065-9840552d3880</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[8]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.mat-focus-indicator.mat-icon-button.mat-button-base</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Open calendar&quot;i >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>7cf386e1-32a7-418b-9525-845d1b97c757</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>95f9f549-8833-4021-9952-3edf4cc40228</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-focus-indicator mat-icon-button mat-button-base</value>
+      <webElementGuid>630237c7-dd1b-46fd-972b-e12b0abe3688</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-haspopup</name>
+      <type>Main</type>
+      <value>dialog</value>
+      <webElementGuid>c7b4ee11-09a2-4b9d-b354-32a8e179b7a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Open calendar</value>
+      <webElementGuid>114c1b6f-3041-4865-92fe-4745ce7ce2e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>cf762f0e-1a1b-4f52-bd65-25fcd4355171</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;education&quot;)/div[@class=&quot;inner-body&quot;]/form[@class=&quot;ng-invalid ng-star-inserted ng-touched ng-dirty&quot;]/div[@class=&quot;top-section&quot;]/div[@class=&quot;right-body&quot;]/div[@class=&quot;form-fields&quot;]/div[@class=&quot;data ng-star-inserted&quot;]/mat-form-field[@class=&quot;mat-form-field w-100 date ng-tns-c62-40 mat-primary mat-form-field-type-mat-input mat-form-field-appearance-fill mat-form-field-can-float ng-untouched ng-pristine ng-invalid ng-star-inserted mat-form-field-should-float mat-focused&quot;]/div[@class=&quot;mat-form-field-wrapper ng-tns-c62-40&quot;]/div[@class=&quot;mat-form-field-flex ng-tns-c62-40&quot;]/div[@class=&quot;mat-form-field-infix ng-tns-c62-40&quot;]/div[@class=&quot;d-flex ng-tns-c62-40&quot;]/mat-datepicker-toggle[@class=&quot;mat-datepicker-toggle&quot;]/button[@class=&quot;mat-focus-indicator mat-icon-button mat-button-base&quot;]</value>
+      <webElementGuid>ddb9ba40-c135-4462-887c-3bcfafaec708</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[8]</value>
+      <webElementGuid>1c1f86c7-0523-43fc-8af6-167d6e8d1346</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='education']/div[2]/form/div/div[2]/div/div[4]/mat-form-field/div/div/div/div/mat-datepicker-toggle/button</value>
+      <webElementGuid>e7e48c60-a809-4578-b0d4-822eaf85a2c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Start Date'])[1]/following::button[1]</value>
+      <webElementGuid>03f47724-7a6d-44da-8743-ff84904c0aae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Yes/No'])[1]/following::button[1]</value>
+      <webElementGuid>4295541d-0447-4eae-943d-a0ff36190e15</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select End Date'])[1]/preceding::button[1]</value>
+      <webElementGuid>fa7a56ec-7289-45b7-aadf-3e05c20aeabc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Prefered EPF office'])[1]/preceding::button[2]</value>
+      <webElementGuid>424f3444-7f6b-41de-af6e-7ae694d0e76a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-datepicker-toggle/button</value>
+      <webElementGuid>a335a907-f585-4d01-8e63-e1df9dc28626</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button']</value>
+      <webElementGuid>358f24d9-0502-4b2e-85be-2640bf5ad4fc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

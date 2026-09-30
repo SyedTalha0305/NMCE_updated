@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg</name>
+   <tag></tag>
+   <elementGuidId>59288295-6627-4f48-8ea4-150491472b00</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='openModalShariah'] | //span[@id='penShah']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#openModalShariah > svg</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#openModalShariah >> internal:role=img</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>6ab0ac40-a143-49c3-83fc-4c3b45ade37d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>48fad78f-e5ed-4662-8a01-564666a8761e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>18</value>
+      <webElementGuid>f69aaed0-b164-4cd6-9510-8f4d6704c64b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>18</value>
+      <webElementGuid>71d73266-4516-40ea-aa03-67ce73f0b2cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 18 18</value>
+      <webElementGuid>766b74c9-ad43-4d08-b437-f84b68bb1c94</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>none</value>
+      <webElementGuid>4e564406-00df-4ae7-91e1-c496c89b38dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;openModalShariah&quot;)/svg[1]</value>
+      <webElementGuid>d92405b2-35d6-4740-a3d5-bd2356c23651</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Simpanan Konvensional'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>c97a4cd9-7a65-455c-b498-e5604e42254a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Saving Type'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>b9cf81b8-2a19-44d2-ab9b-510e045e6086</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Application date for Simpanan Shariah'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>e08e5f7a-bfd4-41f2-b321-fafe534359c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Effective date of Simpanan Shariah'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>ac0e2159-fb54-4431-8e23-98852ed2fc13</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

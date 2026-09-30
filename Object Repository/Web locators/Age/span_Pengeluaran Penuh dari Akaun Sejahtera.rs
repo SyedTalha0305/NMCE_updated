@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Pengeluaran Penuh dari Akaun Sejahtera</name>
+   <tag></tag>
+   <elementGuidId>51d12f7a-2517-4d44-81dd-55c6022a2b85</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#mat-option-1 > span.mat-option-text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-option[@id='mat-option-1']/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Pengeluaran Penuh dari Akaun Sejahtera&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>def52809-a487-4de9-9398-b25e41406ab8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-option-text</value>
+      <webElementGuid>6a587e12-bfa6-4861-b7f9-6c955fa59fd4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Pengeluaran Penuh dari Akaun Sejahtera </value>
+      <webElementGuid>ab57ebe3-80a3-4708-b5d6-eda09ca6c6b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-option-1&quot;)/span[@class=&quot;mat-option-text&quot;]</value>
+      <webElementGuid>6e0eb2b4-f574-4966-b5a9-6eaf7ee69c36</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-option[@id='mat-option-1']/span</value>
+      <webElementGuid>ae86c109-8130-4d11-92ac-b45f27df0454</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pilih Kategori'])[2]/following::span[1]</value>
+      <webElementGuid>7497b72a-5223-4286-9789-2cca5a1f2d5b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pengeluaran Sebahagian'])[1]/preceding::span[1]</value>
+      <webElementGuid>a082dcc2-16c4-4930-911d-31238420706f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Pengeluaran Penuh dari Akaun Sejahtera']/parent::*</value>
+      <webElementGuid>54263ee8-a330-4048-a041-f9098ed32f53</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-option[2]/span</value>
+      <webElementGuid>ff28e581-1867-408a-94b6-6a91c547b104</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' Pengeluaran Penuh dari Akaun Sejahtera ' or . = ' Pengeluaran Penuh dari Akaun Sejahtera ')]</value>
+      <webElementGuid>6d8fe0cf-abd5-4574-bcb2-99348dc628e4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

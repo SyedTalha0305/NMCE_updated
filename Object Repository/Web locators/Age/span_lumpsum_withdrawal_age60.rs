@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_lumpsum_withdrawal_age60</name>
+   <tag></tag>
+   <elementGuidId>dd5037e4-1f48-478f-9848-a6110c72b181</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-option[@id='mat-option-3']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#mat-option-1 > span.mat-option-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Full Withdrawal from Akaun Sejahtera&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>7857eda9-82fd-4ece-8285-f950c813f793</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-option-text</value>
+      <webElementGuid>b6c38bcf-8bbc-44d6-a3ea-213a79773614</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Full Withdrawal from Akaun Sejahtera </value>
+      <webElementGuid>9017d85c-25ed-4a1a-a5c1-bea8b44c767d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-option-1&quot;)/span[@class=&quot;mat-option-text&quot;]</value>
+      <webElementGuid>3213b7bb-d640-4cf0-bf2c-758c39aea287</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-option[@id='mat-option-1']/span</value>
+      <webElementGuid>ab80305d-85c3-4087-9f49-83483dac7f1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Category'])[2]/following::span[1]</value>
+      <webElementGuid>d880e81e-7e2c-4f0b-b141-698bf279e47a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Partial Withdrawal'])[1]/preceding::span[1]</value>
+      <webElementGuid>6b708543-ce81-40ab-9cd4-acfa3222b97a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Full Withdrawal from Akaun Sejahtera']/parent::*</value>
+      <webElementGuid>b0884435-f507-4ff4-bbfa-64bffe35f88c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-option[2]/span</value>
+      <webElementGuid>d346f286-16e1-4259-adb9-92d6c86f092a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' Full Withdrawal from Akaun Sejahtera ' or . = ' Full Withdrawal from Akaun Sejahtera ')]</value>
+      <webElementGuid>c9d8b564-773b-4fd9-a675-fc60b90963a4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

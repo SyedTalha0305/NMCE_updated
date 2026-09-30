@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_LEVEL 3 CERTIFICATE</name>
+   <tag></tag>
+   <elementGuidId>7e360a6f-38f1-4657-8604-9f0839e1ebb6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-option[@id='mat-option-14']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#mat-option-14 > span.mat-option-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;LEVEL 3 CERTIFICATE&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>9dbfc77c-147d-4f5b-88e8-563885b87955</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-option-text</value>
+      <webElementGuid>d8953c59-45f9-4e36-b6d4-18d840383428</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> LEVEL 3 CERTIFICATE </value>
+      <webElementGuid>6965db39-4c33-4551-9394-dc0df5503a55</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-option-14&quot;)/span[@class=&quot;mat-option-text&quot;]</value>
+      <webElementGuid>5cbf9174-8a08-4bea-9902-f4462ee9c4be</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-option[@id='mat-option-14']/span</value>
+      <webElementGuid>3cfe8ba9-6177-47e2-8aae-cc2ad771fe4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Level of Study'])[2]/following::span[1]</value>
+      <webElementGuid>d74f2794-d94e-4da1-ac09-b9c2d81c121d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EN'])[2]/following::span[2]</value>
+      <webElementGuid>c9372975-3671-4eed-9bcb-0f07387abcd6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DIPLOMA'])[1]/preceding::span[1]</value>
+      <webElementGuid>e84e540c-5a5a-4e5a-8285-33e051340219</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BACHELOR'])[1]/preceding::span[2]</value>
+      <webElementGuid>90e62a24-0722-41df-9e1a-0df1a2bb91a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='LEVEL 3 CERTIFICATE']/parent::*</value>
+      <webElementGuid>66d2bd1b-8b8c-47fd-b7e2-08699bd8fa14</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-option[2]/span</value>
+      <webElementGuid>e3e5f0a2-db97-479e-b4da-66f58a912d47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' LEVEL 3 CERTIFICATE ' or . = ' LEVEL 3 CERTIFICATE ')]</value>
+      <webElementGuid>d5703747-8c89-44ad-807d-ca9e0bb3c7d8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

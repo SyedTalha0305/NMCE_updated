@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Not Sponsored  Personal Insurance</name>
+   <tag></tag>
+   <elementGuidId>9f6bc101-1889-4828-a700-7e8c59fbb5a3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-option[@id='mat-option-208']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#mat-option-208 > span.mat-option-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Not Sponsored / Personal Insurance&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c231a6a9-eeeb-441a-b12e-a7b3eab72f1c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-option-text</value>
+      <webElementGuid>3df54be3-ce82-4367-8438-b0bdd2a6904f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Not Sponsored / Personal Insurance </value>
+      <webElementGuid>c3bea918-22db-484c-a410-ec2ab74c627f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-option-208&quot;)/span[@class=&quot;mat-option-text&quot;]</value>
+      <webElementGuid>fc184d8a-5b7d-483f-b84e-416273e5d7fc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-option[@id='mat-option-208']/span</value>
+      <webElementGuid>4f42137f-36bb-4a49-aca2-cab9f1478b1c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sponsorship Type'])[2]/following::span[1]</value>
+      <webElementGuid>dc27c25c-30fa-4678-83a7-e04199eadecb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EN'])[2]/following::span[2]</value>
+      <webElementGuid>a844babd-6355-4b20-a493-3ea365165c51</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Partially Sponsored'])[1]/preceding::span[1]</value>
+      <webElementGuid>ae32eeea-cd74-435a-b316-ec5f1a94199c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fully Sponsored'])[1]/preceding::span[2]</value>
+      <webElementGuid>3e41a5aa-3cb9-4502-a49c-84267329a1e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Not Sponsored / Personal Insurance']/parent::*</value>
+      <webElementGuid>cd971384-6349-4ab4-830b-bf2faa516051</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-option[2]/span</value>
+      <webElementGuid>cb09e5ae-b8d8-4c2d-9cf1-cae1f0fe5b95</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' Not Sponsored / Personal Insurance ' or . = ' Not Sponsored / Personal Insurance ')]</value>
+      <webElementGuid>b9a728f4-70d0-4532-ac0f-8019a28c43ba</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

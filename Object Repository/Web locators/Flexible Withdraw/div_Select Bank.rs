@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Select Bank</name>
+   <tag></tag>
+   <elementGuidId>d0d68d13-1e56-463a-ad1d-c89ca6ad615f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-select[@id='bank']/div/div | (.//*[normalize-space(text()) and normalize-space(.)='Select Your Bank'])[1]/following::*[name()='svg'][1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#mat-select-value-5</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#mat-select-value-5</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c112398e-2ac7-477a-a98a-91a499ad1296</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-select-value ng-tns-c87-13</value>
+      <webElementGuid>a913782e-d80d-4928-aca0-6a3f8f24c6f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>mat-select-value-5</value>
+      <webElementGuid>98bd4906-3761-49a1-996a-d0235bf65aec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select Bank</value>
+      <webElementGuid>cca6fdc3-b48a-419d-b056-48c9100c04d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-select-value-5&quot;)</value>
+      <webElementGuid>76d085c1-7de9-4ddf-8607-58ce495d41fa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='mat-select-value-5']</value>
+      <webElementGuid>2418845b-1493-4887-983a-c623d6c009a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-select[@id='bank']/div/div</value>
+      <webElementGuid>fdefdde1-aab1-4291-95d0-5190e74bbcdb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enter your own active bank account details'])[1]/following::div[7]</value>
+      <webElementGuid>da0d88ec-c3b3-48b6-8269-b6138bb02e4f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Log Out'])[1]/following::div[21]</value>
+      <webElementGuid>8af11674-dbef-4900-a42b-7d5dac6f96cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Your Bank'])[1]/preceding::div[3]</value>
+      <webElementGuid>0174662a-fd25-4d8d-80c7-c8129fe9eed1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-select/div/div</value>
+      <webElementGuid>cc730e93-50f4-4366-abf1-09aa9d0eac5b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'mat-select-value-5' and (text() = 'Select Bank' or . = 'Select Bank')]</value>
+      <webElementGuid>39b96504-d47b-41fd-9e31-ca1559b2e923</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

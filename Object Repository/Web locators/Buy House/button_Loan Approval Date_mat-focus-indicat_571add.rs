@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Loan Approval Date_mat-focus-indicat_571add</name>
+   <tag></tag>
+   <elementGuidId>f2af4b86-c517-4318-8ba6-ac2faacc459d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.mat-focus-indicator.mat-icon-button.mat-button-base</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[8]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Open calendar&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>f5301254-6d5e-428d-85a0-091b131f45e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>d296ae15-072c-4ef7-847b-cec0502f2362</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-focus-indicator mat-icon-button mat-button-base</value>
+      <webElementGuid>17240e33-8193-47fc-8422-dd8269bd43bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-haspopup</name>
+      <type>Main</type>
+      <value>dialog</value>
+      <webElementGuid>68be4d9b-d745-455b-bd58-bc96a9f7d6e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Open calendar</value>
+      <webElementGuid>625d2b6e-6d0e-42d2-9571-2c53ff61eacf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>6621b2fb-6c6b-47e6-9b5a-062753749aa7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[1]/app-root[1]/div[1]/app-general-layout[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;min-h-100&quot;]/div[@class=&quot;wide-screen-layout&quot;]/div[@class=&quot;d-flex justify-content-start align-items-start w-100 h-100 general-layout&quot;]/div[@class=&quot;card-wrap h-100&quot;]/div[@class=&quot;w-100 router-outlet&quot;]/app-withdrawal-buy-build-house[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;main-body-box ng-star-inserted&quot;]/div[@class=&quot;inner-body ng-star-inserted&quot;]/form[@class=&quot;ng-star-inserted ng-dirty ng-touched ng-invalid&quot;]/div[@class=&quot;top-section&quot;]/div[@class=&quot;right-body&quot;]/div[@class=&quot;form-fields&quot;]/mat-form-field[@class=&quot;mat-form-field w-100 ng-tns-c62-173 mat-primary mat-form-field-type-mat-input mat-form-field-appearance-fill mat-form-field-can-float mat-form-field-should-float mat-form-field-has-label ng-star-inserted ng-touched ng-dirty ng-valid&quot;]/div[@class=&quot;mat-form-field-wrapper ng-tns-c62-173&quot;]/div[@class=&quot;mat-form-field-flex ng-tns-c62-173&quot;]/div[@class=&quot;mat-form-field-suffix ng-tns-c62-173 ng-star-inserted&quot;]/mat-datepicker-toggle[@class=&quot;mat-datepicker-toggle ng-tns-c62-173&quot;]/button[@class=&quot;mat-focus-indicator mat-icon-button mat-button-base&quot;]</value>
+      <webElementGuid>2462e5fe-6f53-443f-8657-48bc9253944e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[8]</value>
+      <webElementGuid>4237ff22-4471-433a-b85b-ddec94e4469f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Loan Approval Date'])[1]/following::button[1]</value>
+      <webElementGuid>928f6f0d-add8-41cb-b2bc-bafc28a98315</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Loan Account No.'])[1]/following::button[1]</value>
+      <webElementGuid>a783d395-d108-44ba-916e-b1b30e506eae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Continue'])[1]/preceding::button[1]</value>
+      <webElementGuid>58cb6547-0c3d-4bd3-84b0-41e48ff41449</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EN'])[2]/preceding::button[2]</value>
+      <webElementGuid>bb603b2c-3b64-443f-8391-ff3dd184cdc8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-datepicker-toggle/button</value>
+      <webElementGuid>d820d4e0-5aeb-44cf-aaf1-3c5abc30aa68</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button']</value>
+      <webElementGuid>af589fa7-0e1e-413a-adca-a501d4089cc2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_EN_mat-focus-indicator mat-calendar-_9edfbd</name>
+   <tag></tag>
+   <elementGuidId>580aa6b9-222b-473b-8161-49e1fdb22597</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[14]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.mat-focus-indicator.mat-calendar-next-button.mat-icon-button.mat-button-base</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Next month&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>df173a61-4f24-4415-891b-cb6798d8a230</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>d757df6c-ff18-44f7-bf92-f384ac346142</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-focus-indicator mat-calendar-next-button mat-icon-button mat-button-base</value>
+      <webElementGuid>7a63b077-3f93-45af-a70c-85cfc59a2b1f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Next month</value>
+      <webElementGuid>f33eff16-21de-455b-bb6f-2ff965b75f59</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-datepicker-3&quot;)/mat-calendar-header[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;mat-calendar-header&quot;]/div[@class=&quot;mat-calendar-controls&quot;]/button[@class=&quot;mat-focus-indicator mat-calendar-next-button mat-icon-button mat-button-base&quot;]</value>
+      <webElementGuid>8f1b0025-f708-473a-b543-bd2e5c74a408</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[14]</value>
+      <webElementGuid>b209a88a-ae08-4ae5-b525-386edab64662</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-calendar[@id='mat-datepicker-3']/mat-calendar-header/div/div/button[3]</value>
+      <webElementGuid>e1161fbd-9374-402c-8a7b-5d7c5dcfed5e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EN'])[2]/following::button[3]</value>
+      <webElementGuid>b71ac4b3-2c0b-44e5-8c8b-1dbff505b1f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Continue'])[1]/following::button[4]</value>
+      <webElementGuid>7ad764c4-c819-49a6-8dba-017ad4e0f258</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sunday'])[1]/preceding::button[1]</value>
+      <webElementGuid>92bb7760-5ad2-4f14-a538-181d32cf43d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Monday'])[1]/preceding::button[1]</value>
+      <webElementGuid>df744442-ad0e-453e-8b10-a18be1c20f62</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[3]</value>
+      <webElementGuid>481308ae-d0e1-4eee-be7c-832ed034ead7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button']</value>
+      <webElementGuid>d65f6241-c500-464d-9ce9-6b90321c8d03</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

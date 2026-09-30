@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>mat-icon_Type of Loan No_mat-icon notranslate mat-icon-no-color ng-tns-c62-35</name>
+   <tag></tag>
+   <elementGuidId>c1c1c440-f906-4efd-a2e7-0adf205986a5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Type of Loan No.'])[1]/following::mat-icon[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>mat-icon.mat-icon.notranslate.mat-icon-no-color.ng-tns-c62-35</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>mat-form-field >> internal:has-text=&quot;Select Type of Loan Account No.Type of Loan No.&quot;i >> mat-icon</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>mat-icon</value>
+      <webElementGuid>023b0854-20eb-4326-a6c5-a282d4275faa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>9500c623-b0e5-4dff-a8ab-3ef475605785</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-icon notranslate mat-icon-no-color ng-tns-c62-35</value>
+      <webElementGuid>1d917e3b-c1a6-409a-a222-bd0853c469ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>58281a9d-d9cb-49e2-892e-c1ff073999ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-mat-icon-type</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>8a338f24-7b6c-4250-9c4d-3a100162acc0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-mat-icon-name</name>
+      <type>Main</type>
+      <value>expand_more</value>
+      <webElementGuid>ccbd29d8-499e-4056-9684-ebcb83028bb1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[1]/app-root[1]/div[1]/app-general-layout[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;min-h-100&quot;]/div[@class=&quot;wide-screen-layout&quot;]/div[@class=&quot;d-flex justify-content-start align-items-start w-100 h-100 general-layout&quot;]/div[@class=&quot;card-wrap h-100&quot;]/div[@class=&quot;w-100 router-outlet&quot;]/app-withdrawal-buy-build-house[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;main-body-box ng-star-inserted&quot;]/div[@class=&quot;inner-body ng-star-inserted&quot;]/form[@class=&quot;ng-invalid ng-star-inserted ng-dirty ng-touched&quot;]/div[@class=&quot;top-section&quot;]/div[@class=&quot;right-body&quot;]/div[@class=&quot;form-fields&quot;]/mat-form-field[@class=&quot;mat-form-field w-100 ng-tns-c62-35 mat-primary mat-form-field-type-mat-select mat-form-field-appearance-fill mat-form-field-can-float mat-form-field-should-float mat-form-field-has-label ng-pristine ng-valid ng-star-inserted ng-touched&quot;]/div[@class=&quot;mat-form-field-wrapper ng-tns-c62-35&quot;]/div[@class=&quot;mat-form-field-flex ng-tns-c62-35&quot;]/div[@class=&quot;mat-form-field-suffix ng-tns-c62-35 ng-star-inserted&quot;]/mat-icon[@class=&quot;mat-icon notranslate mat-icon-no-color ng-tns-c62-35&quot;]</value>
+      <webElementGuid>17e253cc-ab62-4d59-8e0e-4c1e35180b4f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Type of Loan No.'])[1]/following::mat-icon[1]</value>
+      <webElementGuid>be29b717-80fa-43c8-8115-bd9f621e2689</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Type of Loan Account No.'])[1]/following::mat-icon[1]</value>
+      <webElementGuid>2f33387a-5ca6-4bf0-bfbd-5de25d9537e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Loan Account No.'])[1]/preceding::mat-icon[1]</value>
+      <webElementGuid>e3fd27f1-7bf3-4ed3-ad2b-fc1fc7080278</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Loan Approval Date'])[1]/preceding::mat-icon[1]</value>
+      <webElementGuid>51c10764-ce5f-40dc-9af9-b81955be5e01</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/mat-icon</value>
+      <webElementGuid>5b90e11e-76ee-4a28-b8b8-35065ae07338</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

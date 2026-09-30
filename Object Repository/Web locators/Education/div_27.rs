@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_27</name>
+   <tag></tag>
+   <elementGuidId>c611d25f-ff55-4d1d-a2d7-b22367151656</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-calendar[@id='mat-datepicker-2']/div/mat-month-view/table/tbody/tr[5]/td[4]/button/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;May 27, 2026&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>fa90b109-8a00-47dd-9570-b1235cc3f92e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-calendar-body-cell-content mat-focus-indicator</value>
+      <webElementGuid>78f4737f-14eb-4299-828b-de228d4abc0c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> 27 </value>
+      <webElementGuid>eb01458c-45dc-4c09-92bd-dd78457a36e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-datepicker-2&quot;)/div[@class=&quot;mat-calendar-content cdk-focused cdk-program-focused&quot;]/mat-month-view[@class=&quot;ng-star-inserted&quot;]/table[@class=&quot;mat-calendar-table&quot;]/tbody[@class=&quot;mat-calendar-body&quot;]/tr[@class=&quot;ng-star-inserted&quot;]/td[@class=&quot;mat-calendar-body-cell-container ng-star-inserted&quot;]/button[@class=&quot;mat-calendar-body-cell&quot;]/div[@class=&quot;mat-calendar-body-cell-content mat-focus-indicator&quot;]</value>
+      <webElementGuid>2f30409e-ba2b-439b-810b-e611813834db</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-calendar[@id='mat-datepicker-2']/div/mat-month-view/table/tbody/tr[5]/td[4]/button/div</value>
+      <webElementGuid>771d8fe0-c67d-4a8a-a531-7185e689bca5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MAY'])[1]/following::div[53]</value>
+      <webElementGuid>ae3ba3c5-96aa-480b-ba4c-7e816fe49e9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Saturday'])[1]/following::div[53]</value>
+      <webElementGuid>3de2893a-e9c2-480c-b43d-461b85606191</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Close calendar'])[1]/preceding::div[10]</value>
+      <webElementGuid>5e14c945-23e0-441d-b928-bc834ae24702</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='27']/parent::*</value>
+      <webElementGuid>652242eb-cb39-40da-8202-544c26ad01ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[5]/td[4]/button/div</value>
+      <webElementGuid>589edeaa-3ead-4ad5-9dad-12a7a022c559</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' 27 ' or . = ' 27 ')]</value>
+      <webElementGuid>372c51f1-d850-46a4-adc0-6d8e7a554919</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

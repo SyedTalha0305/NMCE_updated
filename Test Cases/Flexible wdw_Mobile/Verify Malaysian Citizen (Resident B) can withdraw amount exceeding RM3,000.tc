@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify Malaysian Citizen (Resident B) can withdraw amount exceeding RM3,000</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>50970dba-0c37-4e94-9b8d-1301e5645a51</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>92ea642d-decd-44fc-84ed-60ebb189ac77</id>
+      <iterationEntity>
+         <iterationType>SPECIFIC</iterationType>
+         <value>3</value>
+      </iterationEntity>
+      <testDataId>Data Files/Test Data</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>92ea642d-decd-44fc-84ed-60ebb189ac77</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>USERNAME</value>
+      <variableId>2a88d337-907d-401b-bee7-9d0f0a3ed104</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>92ea642d-decd-44fc-84ed-60ebb189ac77</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>PASSWORD</value>
+      <variableId>c284e1b8-536f-445d-9536-0174e2d2a89d</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>2a88d337-907d-401b-bee7-9d0f0a3ed104</id>
+      <masked>false</masked>
+      <name>USERNAME</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c284e1b8-536f-445d-9536-0174e2d2a89d</id>
+      <masked>false</masked>
+      <name>PASSWORD</name>
+   </variable>
+</TestCaseEntity>

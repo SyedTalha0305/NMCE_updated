@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Umur 50 Tahun_card</name>
+   <tag></tag>
+   <elementGuidId>51192f4b-2183-43a9-9344-db622b6f22e5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='AGE50'] | (.//*[normalize-space(text()) and normalize-space(.)='Age 50 Years'])</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#AGE50</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#AGE50</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e447097b-3fd2-4a51-830f-4325e8d98859</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-item ng-star-inserted</value>
+      <webElementGuid>a10349d8-fc7f-4318-b6d5-4c9ca4979c8b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>AGE50</value>
+      <webElementGuid>3cd6108b-75eb-488f-adc1-330065407952</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Umur 50 Tahun</value>
+      <webElementGuid>6dba5e98-a1e8-4493-bd9e-495918bd5f65</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;AGE50&quot;)</value>
+      <webElementGuid>4c0d2c88-9b7f-4513-937b-db3ececaafbd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='AGE50']</value>
+      <webElementGuid>22cc1451-5f06-4d9d-b5ff-bd27cb399931</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Akaun Fleksibel'])[1]/following::div[1]</value>
+      <webElementGuid>3cd873ff-d6d0-4f36-b7e9-2609b5868c7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pilih jenis pengeluaran anda'])[1]/following::div[4]</value>
+      <webElementGuid>e800c13a-da90-4b1b-910a-41415012b0e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BM'])[2]/preceding::div[1]</value>
+      <webElementGuid>08646430-49f5-46d1-a79f-cd8d664966f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]</value>
+      <webElementGuid>aa53dcf6-bce4-4ae1-bf15-871c5fd1faea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'AGE50' and (text() = 'Umur 50 Tahun' or . = 'Umur 50 Tahun')]</value>
+      <webElementGuid>839bc5c1-13b3-4453-b536-42e4c98d4382</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

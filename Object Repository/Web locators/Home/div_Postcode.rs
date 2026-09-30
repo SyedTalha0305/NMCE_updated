@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Postcode</name>
+   <tag></tag>
+   <elementGuidId>82954071-daa6-47bb-9094-bc881a49fc01</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.mat-form-field-infix.ng-tns-c62-18</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='editBar']/div/div/div/div[2]/form/mat-form-field[7]/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div >> internal:has-text=/^Postcode \*$/ >> nth=2</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b5cccc25-62b6-4372-82f6-85e0de64cb36</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-form-field-infix ng-tns-c62-18</value>
+      <webElementGuid>3b94d0ef-9375-49a2-9a40-fe2d41aa1d77</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Postcode *</value>
+      <webElementGuid>e811b1be-ef4a-4178-a9cf-ec09df6c1d86</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;editBar&quot;)/div[@class=&quot;main-space&quot;]/div[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;edit-main&quot;]/div[@class=&quot;edit-body&quot;]/form[@class=&quot;ng-dirty ng-touched ng-invalid&quot;]/mat-form-field[@class=&quot;mat-form-field w-100 ng-tns-c62-18 mat-primary mat-form-field-type-mat-input mat-form-field-appearance-fill mat-form-field-can-float mat-form-field-has-label mat-form-field-hide-placeholder ng-untouched ng-pristine ng-invalid ng-star-inserted&quot;]/div[@class=&quot;mat-form-field-wrapper ng-tns-c62-18&quot;]/div[@class=&quot;mat-form-field-flex ng-tns-c62-18&quot;]/div[@class=&quot;mat-form-field-infix ng-tns-c62-18&quot;]</value>
+      <webElementGuid>c6630659-63fa-4a6a-80bc-aa55f1861c24</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='editBar']/div/div/div/div[2]/form/mat-form-field[7]/div/div/div</value>
+      <webElementGuid>1aa640c3-0866-48dd-9d57-82a1a4a50c1c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Address Line 5'])[1]/following::div[7]</value>
+      <webElementGuid>cb3cb7e1-1f3d-4e41-923d-fa5a80a0285f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Address Line 4'])[1]/following::div[14]</value>
+      <webElementGuid>fd97581c-71d1-4627-a621-b09a61078482</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please enter a postcode.'])[1]/preceding::div[5]</value>
+      <webElementGuid>baa0d99d-a362-4858-8d9e-94195c4eacc3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-form-field[7]/div/div/div</value>
+      <webElementGuid>de74c3f0-3e33-4fdb-a948-c5402526db89</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Postcode *' or . = 'Postcode *')]</value>
+      <webElementGuid>69ac94ac-7c05-4144-8458-bce225eb94cc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

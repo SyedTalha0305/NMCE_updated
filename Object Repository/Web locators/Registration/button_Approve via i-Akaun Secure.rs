@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Approve via i-Akaun Secure</name>
+   <tag></tag>
+   <elementGuidId>bd5e4e9b-c02d-48a1-a015-a4cd039435ee</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#preLoginForgottenUserContinueBtn_btn</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='preLoginForgottenUserContinueBtn_btn']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Approve via i-Akaun Secure&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>30a22607-0151-45f1-9e8e-52305bf04916</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>preLoginForgottenUserContinueBtn_btn</value>
+      <webElementGuid>7c422017-21b6-49fe-8002-28b21d50af9e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>149cd653-11fe-402c-a8fa-6cb21eb853f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Approve via i-Akaun Secure
+</value>
+      <webElementGuid>3476d8ea-1529-4dc8-9971-759cfe81ebbe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;preLoginForgottenUserContinueBtn_btn&quot;)</value>
+      <webElementGuid>60c63e39-43f1-42e6-8d21-f31790605911</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='preLoginForgottenUserContinueBtn_btn']</value>
+      <webElementGuid>07942981-9e9f-468f-a927-1247c265f801</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//app-button-primary-large[@id='preLoginForgottenUserContinueBtn']/button</value>
+      <webElementGuid>2ba24ce3-c7af-4714-b743-0fac44755703</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Choose authorisation method'])[1]/following::button[1]</value>
+      <webElementGuid>536e2cbd-c609-4f5a-afe3-4cb31a6e2b53</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EN'])[2]/following::button[1]</value>
+      <webElementGuid>8b3b94ed-60c0-4077-8852-3e3bab5c8d3d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Request SMS TAC'])[1]/preceding::button[1]</value>
+      <webElementGuid>b3a1dfd2-a602-40f2-9033-d36deb462b6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Approve via i-Akaun Secure']/parent::*</value>
+      <webElementGuid>e3fedf05-f478-4b4f-9f7f-f55000207c86</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/app-button-primary-large/button</value>
+      <webElementGuid>a2e6fe1b-1b2b-4dfd-a317-85d47c39a500</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'preLoginForgottenUserContinueBtn_btn' and @type = 'button' and (text() = ' Approve via i-Akaun Secure
+' or . = ' Approve via i-Akaun Secure
+')]</value>
+      <webElementGuid>7f926eee-4f64-4b38-914f-4483a829c7fd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

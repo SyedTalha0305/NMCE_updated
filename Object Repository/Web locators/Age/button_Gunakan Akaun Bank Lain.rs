@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Gunakan Akaun Bank Lain</name>
+   <tag></tag>
+   <elementGuidId>cf86acad-0e11-4486-aeea-6f679d27948d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#withdrawalAge50ButtonsAddBank_btn</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='withdrawalAge50ButtonsAddBank_btn'] | (//button[@type='button'])[8]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Gunakan Akaun Bank Lain&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>a873812a-d2ea-4693-bb2c-8c70cf5fed77</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>withdrawalAge50ButtonsAddBank_btn</value>
+      <webElementGuid>7f78e9a5-77cd-44c6-b154-f2dfe783ba00</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>1927bb75-fe03-4a3f-8108-2a87b0aa326a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Gunakan Akaun Bank Lain
+</value>
+      <webElementGuid>434f40ee-5b53-4a95-bee6-779e3a8bce48</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;withdrawalAge50ButtonsAddBank_btn&quot;)</value>
+      <webElementGuid>c3826e0f-b126-49fb-bfc8-c2d85800e405</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='withdrawalAge50ButtonsAddBank_btn']</value>
+      <webElementGuid>45b64d53-edcc-4ea7-939c-593e6fed83a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//app-button-secondary-large[@id='withdrawalAge50ButtonsAddBank']/button</value>
+      <webElementGuid>15b75f3f-1cd8-4b0b-8dcb-4dd8e6da500c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Anda tidak mempunyai sebarang akaun bank pada masa ini'])[1]/following::button[1]</value>
+      <webElementGuid>8c209512-a3b0-40d7-9410-51d5e2910989</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pilih bank untuk kredit'])[1]/following::button[1]</value>
+      <webElementGuid>a41f2fe1-513d-4f6f-8210-f1f7ce7143d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BM'])[2]/preceding::button[1]</value>
+      <webElementGuid>e25edb4d-8b86-4040-a6a8-c74d0111e6de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Gunakan Akaun Bank Lain']/parent::*</value>
+      <webElementGuid>08a02057-8fc3-4fe1-af30-46851fbf76af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-button-secondary-large/button</value>
+      <webElementGuid>5c9fbb79-6058-4768-bf29-2b39f859797a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'withdrawalAge50ButtonsAddBank_btn' and @type = 'button' and (text() = ' Gunakan Akaun Bank Lain
+' or . = ' Gunakan Akaun Bank Lain
+')]</value>
+      <webElementGuid>44e59c0a-68b3-4ef9-9455-d8f9ce3f875a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

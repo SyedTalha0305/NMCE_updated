@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Profile</name>
+   <tag></tag>
+   <elementGuidId>8ff9800e-4ef5-49f2-af10-f9413078969c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Investment'])[1]/following::span[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Profile&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>40f2a05b-4eec-4f4c-9213-af2e4c65e80d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Profile </value>
+      <webElementGuid>359223a8-7b90-4729-9fa5-96c113390811</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[1]/app-root[1]/div[1]/app-banner-layout[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;wide-screen-layout position-relative&quot;]/div[@class=&quot;d-flex justify-content-start member-dashboard-content w-100&quot;]/div[@class=&quot;navbar&quot;]/app-navigation[@class=&quot;navbar-card&quot;]/div[@class=&quot;bg-white large-card navigation-card scrolled&quot;]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;d-flex justify-content-start&quot;]/button[@class=&quot;ps-0 pe-0&quot;]/span[1]</value>
+      <webElementGuid>79e3fe20-d540-4ab3-bac9-f6cacbc6f9d9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Investment'])[1]/following::span[1]</value>
+      <webElementGuid>04940075-28cb-4816-9653-2d647fab2513</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Withdrawal'])[1]/following::span[2]</value>
+      <webElementGuid>5dafe3a3-d9c3-48b2-9512-6d84ebf47078</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Log Out'])[1]/preceding::span[2]</value>
+      <webElementGuid>b5c823d2-607c-419d-9548-6b4ca37f6336</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EN'])[1]/preceding::span[3]</value>
+      <webElementGuid>a0cba551-3a92-4b9b-8cf2-ab04e5d875e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Profile']/parent::*</value>
+      <webElementGuid>43ef3b1e-3029-41d2-9820-1f404453e4d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/button/span</value>
+      <webElementGuid>3e698075-6ea3-4fbd-9f1a-2687d13d8814</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Profile ' or . = 'Profile ')]</value>
+      <webElementGuid>52cd8f3a-7a47-4ffd-80aa-f00757bd3e1d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

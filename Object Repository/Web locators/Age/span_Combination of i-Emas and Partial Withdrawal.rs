@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Combination of i-Emas and Partial Withdrawal</name>
+   <tag></tag>
+   <elementGuidId>f4fcb979-309a-467b-b85b-68ee4aa51d01</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#mat-option-2 > span.mat-option-text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-option[@id='mat-option-2']/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>ade0cbab-ddd9-4b75-bf84-db4c1d8c61f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-option-text</value>
+      <webElementGuid>003d3666-bb47-41e6-a8cd-cc565c80ece4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Combination of i-Emas and Partial Withdrawal </value>
+      <webElementGuid>bd658ee8-f001-4747-a1b0-8c026aa07322</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-option-2&quot;)/span[@class=&quot;mat-option-text&quot;]</value>
+      <webElementGuid>0394be4d-3cfe-4363-a873-1cd9c16da1f4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-option[@id='mat-option-2']/span</value>
+      <webElementGuid>9d617e48-603d-4f06-b6de-ed9294f77477</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Partial Withdrawal'])[1]/following::span[1]</value>
+      <webElementGuid>1248725e-4e65-4cfd-bfae-e7ef88e200e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='i-Emas (Monthly Payment Withdrawal)'])[1]/following::span[2]</value>
+      <webElementGuid>8f85aded-e644-44cb-8525-944337a2e971</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Full Withdrawal from Akaun 55'])[1]/preceding::span[1]</value>
+      <webElementGuid>b398f152-b484-4f51-9429-b7a34ad91b01</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Combination of i-Emas and Partial Withdrawal']/parent::*</value>
+      <webElementGuid>61647dae-1b40-4b85-836b-b50d6c5e5397</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-option[3]/span</value>
+      <webElementGuid>e5dc32f1-7467-4ec2-bdd4-929d6a886774</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' Combination of i-Emas and Partial Withdrawal ' or . = ' Combination of i-Emas and Partial Withdrawal ')]</value>
+      <webElementGuid>83876dc6-4ca5-4800-8458-0dbae15d30ab</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

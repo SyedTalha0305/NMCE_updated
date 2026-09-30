@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_5</name>
+   <tag></tag>
+   <elementGuidId>2818ad23-0469-4ca2-bf62-0bc2f765e23f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.mat-calendar-body-cell-content.mat-focus-indicator.mat-calendar-body-today</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='1'])</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;June 5, 2026&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a8869753-7cc4-447b-8b71-d88be4b27d44</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-calendar-body-cell-content mat-focus-indicator mat-calendar-body-today</value>
+      <webElementGuid>c44eccbd-ab0a-40ce-b5b2-cf30f47fea5d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> 5 </value>
+      <webElementGuid>a36dc2c4-5560-4874-9321-2a6f27c273cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-datepicker-0&quot;)/div[@class=&quot;mat-calendar-content cdk-focused cdk-program-focused&quot;]/mat-month-view[@class=&quot;ng-star-inserted&quot;]/table[@class=&quot;mat-calendar-table&quot;]/tbody[@class=&quot;mat-calendar-body&quot;]/tr[@class=&quot;ng-star-inserted&quot;]/td[@class=&quot;mat-calendar-body-cell-container ng-star-inserted&quot;]/button[@class=&quot;mat-calendar-body-cell mat-calendar-body-active&quot;]/div[@class=&quot;mat-calendar-body-cell-content mat-focus-indicator mat-calendar-body-today&quot;]</value>
+      <webElementGuid>dc1bcade-df9a-41c0-aefd-0c9e00805e57</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-calendar[@id='mat-datepicker-0']/div/mat-month-view/table/tbody/tr[2]/td[6]/button/div</value>
+      <webElementGuid>198f37a5-a9f2-4da1-b695-9b69f74dc435</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='JUN'])[1]/following::div[9]</value>
+      <webElementGuid>6a9dcc88-1946-49a5-851a-452de1884c72</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Saturday'])[1]/following::div[9]</value>
+      <webElementGuid>72a97f9b-2f4a-44a1-8c3c-c8f8d8a78351</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Close calendar'])[1]/preceding::div[52]</value>
+      <webElementGuid>bcf53ef8-3d4e-4d6d-9d89-275a47baa34d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='5']/parent::*</value>
+      <webElementGuid>01c3cf0b-ed52-462b-b8f6-852881f8690d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[6]/button/div</value>
+      <webElementGuid>ca54b937-9c27-46b1-9652-c2a61f5207e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' 5 ' or . = ' 5 ')]</value>
+      <webElementGuid>365ecd03-1757-40ce-b82f-45ee31d6f3ce</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

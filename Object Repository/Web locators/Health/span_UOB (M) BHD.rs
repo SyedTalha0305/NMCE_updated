@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_UOB (M) BHD</name>
+   <tag></tag>
+   <elementGuidId>60173237-e2bd-460f-9951-35fa9fe6a94d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-option[@id='mat-option-97']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#mat-option-97 > span.mat-option-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;UOB (M) BHD&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>16d645c5-9f07-4e0b-89d6-c28f8699305f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-option-text</value>
+      <webElementGuid>67ded78b-f8ec-4b09-8903-210e6a70491c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>UOB (M) BHD </value>
+      <webElementGuid>ce148737-87e3-41c5-bf98-39ef99b9f78d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-option-97&quot;)/span[@class=&quot;mat-option-text&quot;]</value>
+      <webElementGuid>f1274742-a65d-47b7-8896-6fa73471339b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-option[@id='mat-option-97']/span</value>
+      <webElementGuid>601b2ebd-0f3d-476e-a332-2db6d3d0d242</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='STANDARD CHARTERED'])[1]/following::span[1]</value>
+      <webElementGuid>fee6770c-93e2-461e-afa0-3c971a3fb46e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='RHB BANK BHD'])[1]/following::span[2]</value>
+      <webElementGuid>2aa8abb7-884b-4288-895d-015b1a4420df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='UOB (M) BHD']/parent::*</value>
+      <webElementGuid>72613db8-1c5a-40d0-b26d-6a6aa214ea5d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-option[65]/span</value>
+      <webElementGuid>3cd0f3fa-3a50-4147-b3c1-a04235c6277f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'UOB (M) BHD ' or . = 'UOB (M) BHD ')]</value>
+      <webElementGuid>7093290f-f2cf-4158-967a-6bb9095c6ad9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

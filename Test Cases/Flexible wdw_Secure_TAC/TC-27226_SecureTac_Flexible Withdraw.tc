@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-27226_SecureTac_Flexible Withdraw</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>cb41db22-f9c7-4238-a19f-ebb904ad07ec</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>a0bd610e-09de-45d5-95b8-71d9d96cee13</id>
+      <iterationEntity>
+         <iterationType>SPECIFIC</iterationType>
+         <value>3</value>
+      </iterationEntity>
+      <testDataId>Data Files/Test Data</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>a0bd610e-09de-45d5-95b8-71d9d96cee13</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>USERNAME</value>
+      <variableId>06cd92cd-d508-4dd0-ad8d-96f38f90425d</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>a0bd610e-09de-45d5-95b8-71d9d96cee13</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>PASSWORD</value>
+      <variableId>247f6171-47e0-48de-ac69-047edd369a81</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>06cd92cd-d508-4dd0-ad8d-96f38f90425d</id>
+      <masked>false</masked>
+      <name>USERNAME</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>247f6171-47e0-48de-ac69-047edd369a81</id>
+      <masked>false</masked>
+      <name>PASSWORD</name>
+   </variable>
+</TestCaseEntity>

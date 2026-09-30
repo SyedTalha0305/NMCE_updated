@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify Non-Citizen (Resident X) can withdraw amount exceeding RM3,000</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c03a71ee-c825-4d66-b5cb-e4348b33ade8</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>7448dc34-e876-452b-a042-ab4fe9c407e2</id>
+      <iterationEntity>
+         <iterationType>SPECIFIC</iterationType>
+         <value>4</value>
+      </iterationEntity>
+      <testDataId>Data Files/Test Data</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>7448dc34-e876-452b-a042-ab4fe9c407e2</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>USERNAME</value>
+      <variableId>0e0da18c-5a08-47b0-bd31-6c0422be6aa8</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>7448dc34-e876-452b-a042-ab4fe9c407e2</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>PASSWORD</value>
+      <variableId>e373ade1-5313-4c1d-b300-5abc14dc8f01</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0e0da18c-5a08-47b0-bd31-6c0422be6aa8</id>
+      <masked>false</masked>
+      <name>USERNAME</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e373ade1-5313-4c1d-b300-5abc14dc8f01</id>
+      <masked>false</masked>
+      <name>PASSWORD</name>
+   </variable>
+</TestCaseEntity>

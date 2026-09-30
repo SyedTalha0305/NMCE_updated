@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Withdraw Savings</name>
+   <tag></tag>
+   <elementGuidId>428a37de-ba23-4fd7-984d-3862e2cf3c04</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='wdwlEduHomeWithdrawFunds_btn']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#wdwlEduHomeWithdrawFunds_btn</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Withdraw Savings&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>0655a3c7-d803-4086-840d-fc079bb28967</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>wdwlEduHomeWithdrawFunds_btn</value>
+      <webElementGuid>80a4c2f8-6757-4d13-b833-45286b22ae5c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>4f9be8b2-fec9-4c78-894b-a9ddab5eee19</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Withdraw Savings
+</value>
+      <webElementGuid>33756926-2270-4e08-b179-3a3223af7b74</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wdwlEduHomeWithdrawFunds_btn&quot;)</value>
+      <webElementGuid>bf45f348-19a0-4334-a956-a92bdada1fc7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='wdwlEduHomeWithdrawFunds_btn']</value>
+      <webElementGuid>2dc38f26-4c4e-459d-9f2b-40b7771789f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//app-button-primary-large[@id='wdwlEduHomeWithdrawFunds']/button</value>
+      <webElementGuid>39e2c42a-fcc0-41a9-ac90-fe9da0d8b7d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Read More'])[1]/following::button[1]</value>
+      <webElementGuid>16ecc45b-a88a-4156-b4ba-16ef6d8aaea1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Terms &amp; conditions'])[1]/following::button[1]</value>
+      <webElementGuid>919cae75-57df-4e35-87d3-40b3961be076</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View Details'])[2]/preceding::button[1]</value>
+      <webElementGuid>21b0e0a2-39ee-4af6-8b3f-06fe2cba9653</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Withdraw Savings']/parent::*</value>
+      <webElementGuid>7f5576a8-95aa-43be-83e0-a7829b78598e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-button-primary-large/button</value>
+      <webElementGuid>dcc1baf6-2aae-4038-a61b-3d447dc7bff4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'wdwlEduHomeWithdrawFunds_btn' and @type = 'button' and (text() = ' Withdraw Savings
+' or . = ' Withdraw Savings
+')]</value>
+      <webElementGuid>fa602507-903c-4548-88b2-1150f3c73656</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

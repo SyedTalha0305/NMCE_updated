@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>record</name>
+   <tag></tag>
+   <elementGuidId>186366ba-e784-429a-a88f-87f9ad79a800</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-icon[@id=&quot;viewMoreBtn0&quot;]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Cannot switch back to Conventional Sav_561586</name>
+   <tag></tag>
+   <elementGuidId>8eabbc81-9f17-4388-a03c-7e09308318f2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-option[@id='mat-option-2']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#mat-option-2 > span.mat-option-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Cannot switch back to Conventional Savings account&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>642ad513-b3b6-4fc1-9066-88173bfbd077</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-option-text</value>
+      <webElementGuid>14d5721c-7c49-4da7-8e0c-a3d4d5298398</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Cannot switch back to Conventional Savings account </value>
+      <webElementGuid>20fecc5e-3d5f-4a1b-a4b8-9db1be8ffd0b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-option-2&quot;)/span[@class=&quot;mat-option-text&quot;]</value>
+      <webElementGuid>099ba471-e313-4061-84ed-d40e10d90780</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-option[@id='mat-option-2']/span</value>
+      <webElementGuid>973f0bb1-227f-48be-91c0-9d086711aeb7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='There is no requirement for EPF savings to be managed according to sharia principles'])[1]/following::span[1]</value>
+      <webElementGuid>517383ea-8228-4b7c-8643-cff271530995</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Conventional Savings Dividends are higher'])[1]/following::span[2]</value>
+      <webElementGuid>75f64df5-2a91-4e51-8361-756808d60840</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Not allowed to make conventional investments under Member Investment Schemes including i-Invest'])[1]/preceding::span[1]</value>
+      <webElementGuid>bcaa9a4e-9351-44af-9275-f77f61731ffc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Wrong choice'])[1]/preceding::span[2]</value>
+      <webElementGuid>57239538-7274-492d-98ec-454798b70b6d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Cannot switch back to Conventional Savings account']/parent::*</value>
+      <webElementGuid>4e2b31c9-0af4-4f77-9112-244f537af34f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-option[3]/span</value>
+      <webElementGuid>5626f88e-0d7f-42e9-ae83-25f8f8386091</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' Cannot switch back to Conventional Savings account ' or . = ' Cannot switch back to Conventional Savings account ')]</value>
+      <webElementGuid>bbf94441-26cc-40c0-afbd-0895341fff2d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

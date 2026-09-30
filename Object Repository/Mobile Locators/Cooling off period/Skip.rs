@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MobileElementEntity>
+   <description></description>
+   <name>Skip</name>
+   <tag></tag>
+   <elementGuidId>adebf754-33fe-4056-a7a6-5d87171c948a</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <locatorCollection>
+      <entry>
+         <key>ANDROID_UI_AUTOMATOR</key>
+         <value>new UiSelector()</value>
+      </entry>
+      <entry>
+         <key>ID</key>
+         <value>com.mip.sit.epf:id/.3.Label</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+      </entry>
+      <entry>
+         <key>ACCESSIBILITY</key>
+         <value>com.mip.sit.epf:id/.3.Label</value>
+      </entry>
+   </locatorCollection>
+   <locatorStrategy>ACCESSIBILITY</locatorStrategy>
+   <platform>ANDROID</platform>
+</MobileElementEntity>

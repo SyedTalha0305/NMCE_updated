@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Withdrawal account</name>
+   <tag></tag>
+   <elementGuidId>758eff56-5419-409b-a634-2d5c6a396c38</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Withdrawal account']) | //*[@id='withdrawalBankButtonAnotherBank_btn']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Withdrawal account&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>0f96fae5-8fed-450b-a208-1e846989f863</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>45ad5673-d9bd-4728-8599-4683a5f36de2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bank-tab</value>
+      <webElementGuid>ee09fd95-1689-47fb-9c6b-39b60901bea1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Withdrawal account </value>
+      <webElementGuid>e9e1f6b9-fe8e-414f-981a-a3a6338da7ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[1]/app-root[1]/div[1]/app-general-layout[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;min-h-100&quot;]/div[@class=&quot;wide-screen-layout&quot;]/div[@class=&quot;d-flex justify-content-start align-items-start w-100 h-100 general-layout&quot;]/div[@class=&quot;card-wrap h-100&quot;]/div[@class=&quot;w-100 router-outlet&quot;]/app-withdrawal-flexible[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;main-body-box ng-star-inserted&quot;]/div[@class=&quot;inner-body&quot;]/div[@class=&quot;select-bank ng-star-inserted&quot;]/app-bank-select[1]/div[@class=&quot;select-bank&quot;]/div[@class=&quot;confirm-main&quot;]/div[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;bank-tab-group&quot;]/button[@class=&quot;bank-tab&quot;]</value>
+      <webElementGuid>f20c283c-8de8-4412-939e-457da0b46fb6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[9]</value>
+      <webElementGuid>47f53aac-b799-4aee-971d-520b46620c85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Linked account'])[1]/following::button[1]</value>
+      <webElementGuid>3ed83a7c-5a10-4ed9-8867-045e678f6ca2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select bank for credits'])[1]/following::button[2]</value>
+      <webElementGuid>fac4cf16-1a7b-4517-9d38-216dd9161c14</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No linked account found'])[1]/preceding::button[1]</value>
+      <webElementGuid>07e0d1c7-b139-45fd-ab98-4f4790e2e67a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enable faster and secure withdrawals by linking your savings account.'])[1]/preceding::button[1]</value>
+      <webElementGuid>647bea25-4565-4938-8007-acdb9544e9bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Withdrawal account']/parent::*</value>
+      <webElementGuid>3e7d51fb-149d-4c0f-baf7-1c76a62a7480</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]</value>
+      <webElementGuid>bb0c0890-3577-4596-a2a1-7215abaeae82</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = ' Withdrawal account ' or . = ' Withdrawal account ')]</value>
+      <webElementGuid>ea641bb1-8789-4c8c-aa81-0cf033ee119f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

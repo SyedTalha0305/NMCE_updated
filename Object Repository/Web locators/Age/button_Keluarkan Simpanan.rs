@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Keluarkan Simpanan</name>
+   <tag></tag>
+   <elementGuidId>721fce5f-6c32-4f53-bf0e-77edce426704</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='withdrawalAge50ButtonsWithdrawFunds_btn']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#withdrawalAge50ButtonsWithdrawFunds_btn</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Keluarkan Simpanan&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>0204ce79-6b8b-4a41-941a-e35096f0f859</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>withdrawalAge50ButtonsWithdrawFunds_btn</value>
+      <webElementGuid>3a0bf73e-c248-40b9-8c71-5c7d1fb70bf0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>bc401c0e-2c90-42d8-830f-75c3d6263f67</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Keluarkan Simpanan
+</value>
+      <webElementGuid>e12faef8-5c1c-41ce-9500-872399f1b9bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;withdrawalAge50ButtonsWithdrawFunds_btn&quot;)</value>
+      <webElementGuid>cd192772-0eff-45ff-82e5-9c288708ca98</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='withdrawalAge50ButtonsWithdrawFunds_btn']</value>
+      <webElementGuid>705f72cb-2eff-4149-9626-1bc6e60fd0d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//app-button-primary-large[@id='withdrawalAge50ButtonsWithdrawFunds']/button</value>
+      <webElementGuid>c3781eac-b542-4de1-9d5f-865c7daa070e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Baca Lanjut'])[2]/following::button[1]</value>
+      <webElementGuid>d37f5a5b-28e4-46ad-a496-30a053848758</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Soalan lazim'])[1]/following::button[1]</value>
+      <webElementGuid>82923ef7-2c26-4891-a074-6d4a0aa2a979</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lihat Butiran'])[2]/preceding::button[1]</value>
+      <webElementGuid>3d356c01-f55a-4d14-99d3-940066deecc1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Keluarkan Simpanan']/parent::*</value>
+      <webElementGuid>02da3d67-ec6c-428f-8468-adcc9fc4f9fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-button-primary-large/button</value>
+      <webElementGuid>a31b627c-0855-4ca0-8d54-1d3fd092cff0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'withdrawalAge50ButtonsWithdrawFunds_btn' and @type = 'button' and (text() = ' Keluarkan Simpanan
+' or . = ' Keluarkan Simpanan
+')]</value>
+      <webElementGuid>3dc1f8ce-af99-48b0-8cec-78aea7df1441</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

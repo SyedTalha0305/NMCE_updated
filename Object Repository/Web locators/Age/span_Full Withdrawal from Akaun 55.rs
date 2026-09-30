@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Full Withdrawal from Akaun 55</name>
+   <tag></tag>
+   <elementGuidId>85591d4b-a5c6-4ba0-810b-40c89c9116ae</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#mat-option-3 > span.mat-option-text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-option[@id='mat-option-3']/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>adcdc4e5-a1a6-4d05-b8d3-0211b8295c12</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-option-text</value>
+      <webElementGuid>ca484415-34b7-4f0c-a2dc-94b7cd116b11</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Full Withdrawal from Akaun 55 </value>
+      <webElementGuid>99cfea2b-099b-419d-b9de-8c42fc148f73</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-option-3&quot;)/span[@class=&quot;mat-option-text&quot;]</value>
+      <webElementGuid>774893fb-8a7c-4c4f-8e7d-cafbb5af450c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-option[@id='mat-option-3']/span</value>
+      <webElementGuid>013acc25-0c6a-4f8c-aa50-e2a0441b9b05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Combination of i-Emas and Partial Withdrawal'])[1]/following::span[1]</value>
+      <webElementGuid>8e8bc8f2-a153-477e-8203-4da16583b500</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Partial Withdrawal'])[1]/following::span[2]</value>
+      <webElementGuid>59dc88b3-3c4c-4805-ab21-b3070daf0f40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Full Withdrawal from Akaun 55']/parent::*</value>
+      <webElementGuid>3042854d-11ba-4172-a981-dbe864864844</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-option[4]/span</value>
+      <webElementGuid>c438d008-db0a-45dc-88fa-9583e1996da4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' Full Withdrawal from Akaun 55 ' or . = ' Full Withdrawal from Akaun 55 ')]</value>
+      <webElementGuid>c04f1c94-f7c4-4e1a-b158-71cd770b4a04</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

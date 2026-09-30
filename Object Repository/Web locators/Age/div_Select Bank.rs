@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Select Bank</name>
+   <tag></tag>
+   <elementGuidId>3b60049b-cc87-4bf1-b839-8b9f5fc4e174</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Log Out'])[1]/following::div[21]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#mat-select-value-3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#mat-select-value-3</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>1b72a986-1088-457e-9d30-446c3d807e0a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-select-value ng-tns-c87-5</value>
+      <webElementGuid>47585fb3-0489-4f73-abef-b7a807b25849</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>mat-select-value-3</value>
+      <webElementGuid>ae015049-5cdd-45f8-a9ee-9d233c302442</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select Bank</value>
+      <webElementGuid>82125280-b9a5-468a-bcac-a5668fd9ca23</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-select-value-3&quot;)</value>
+      <webElementGuid>42af0b00-64cc-4d38-9753-9d8fa8351705</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='mat-select-value-3']</value>
+      <webElementGuid>1b7faf68-ce60-4c46-8752-549ce635e26e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-select[@id='bank']/div/div</value>
+      <webElementGuid>e9eb64a8-7c10-4522-b022-3edbf60aa670</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enter your own active bank account details'])[1]/following::div[7]</value>
+      <webElementGuid>04fb4791-1451-4ec2-bdef-31f367dc76f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Log Out'])[1]/following::div[21]</value>
+      <webElementGuid>ffd0d3b4-9572-41ff-9918-f69c920d6902</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Your Bank'])[1]/preceding::div[3]</value>
+      <webElementGuid>fc815a55-32b7-4a15-9f2a-a40c756811c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-select/div/div</value>
+      <webElementGuid>4537c56f-01d7-4e69-9c79-b972e6b2f96a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'mat-select-value-3' and (text() = 'Select Bank' or . = 'Select Bank')]</value>
+      <webElementGuid>77c8cd4b-0b8a-43a5-9fa8-235426f4cde7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

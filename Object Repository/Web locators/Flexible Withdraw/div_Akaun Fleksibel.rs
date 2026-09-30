@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Akaun Fleksibel</name>
+   <tag></tag>
+   <elementGuidId>4dc708d4-75f6-4c49-9f1e-efece7e59d1c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='FLEKSIBEL'] | (.//*[normalize-space(text()) and normalize-space(.)='Akaun Fleksibel'])</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#FLEKSIBEL</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#FLEKSIBEL</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e7211f4f-1da4-4c3d-bbf3-5893b28e191c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-item ng-star-inserted</value>
+      <webElementGuid>d755b654-6239-4c2e-893a-5b81d33c3882</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>FLEKSIBEL</value>
+      <webElementGuid>1909ad95-014a-4b9d-b87a-b58fea6e599a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Akaun Fleksibel</value>
+      <webElementGuid>efe89289-d4be-4ada-ae3c-062e0ff0f28d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;FLEKSIBEL&quot;)</value>
+      <webElementGuid>da8f0c55-5ab2-4ce5-a9d6-6d4bea520b7d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='FLEKSIBEL']</value>
+      <webElementGuid>514f15c5-9bb4-4939-9462-3c06df7893f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select your withdrawal type'])[1]/following::div[3]</value>
+      <webElementGuid>8d7c5df9-bd28-400e-a102-04a317a3db1d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Log Out'])[1]/following::div[15]</value>
+      <webElementGuid>055761c2-9b4b-41c8-b84f-3e68edde113a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Buy/Build House'])[1]/preceding::div[1]</value>
+      <webElementGuid>6a3e21cb-65bd-4701-83d5-2ee929426a66</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div[2]/div/div</value>
+      <webElementGuid>a59c79db-4628-4f94-9dc9-0ac6c842ac3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'FLEKSIBEL' and (text() = 'Akaun Fleksibel' or . = 'Akaun Fleksibel')]</value>
+      <webElementGuid>7de232ab-335c-42c4-8709-1e6acef80844</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

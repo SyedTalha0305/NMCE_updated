@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Register i-Sayang</name>
+   <tag></tag>
+   <elementGuidId>6ddd9bf3-b93c-48a3-ab71-f3a4b3b39964</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='iSayangRegistrationEntryRegisterBtn_btn']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#iSayangRegistrationEntryRegisterBtn_btn</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Register i-Sayang&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>6729a2a0-57d5-4868-b306-25e35302e4c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>iSayangRegistrationEntryRegisterBtn_btn</value>
+      <webElementGuid>e7c64663-16db-4f0f-9148-acd29deced08</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>51ad0bc9-e697-4ddc-9001-03f0e34e5594</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Register i-Sayang
+</value>
+      <webElementGuid>8d7a6a6b-8598-4b3c-a99d-aa6076744852</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;iSayangRegistrationEntryRegisterBtn_btn&quot;)</value>
+      <webElementGuid>9f5767db-280d-4376-a297-9ea8764d217b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='iSayangRegistrationEntryRegisterBtn_btn']</value>
+      <webElementGuid>3a1d7068-6fd9-432f-8a2d-0ea90cac3f92</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//app-button-primary-large[@id='iSayangRegistrationEntryRegisterBtn']/button</value>
+      <webElementGuid>ac39660e-192c-4840-afbb-a775d2843396</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Read More'])[1]/following::button[1]</value>
+      <webElementGuid>4005509f-8464-40e1-a61c-c10ea856879e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Frequently asked question'])[1]/following::button[1]</value>
+      <webElementGuid>d2950fcf-10ed-43b4-ae75-cd6df424ba2c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Frequently asked question'])[2]/preceding::button[1]</value>
+      <webElementGuid>e0c8a9e1-8e08-4ca7-9484-59d27676fa2d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Read More'])[2]/preceding::button[1]</value>
+      <webElementGuid>55b27afd-3414-460a-bb0c-8a0e1c1e6802</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-button-primary-large/button</value>
+      <webElementGuid>7e608f63-de46-4cda-ac17-8e11ca1922cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'iSayangRegistrationEntryRegisterBtn_btn' and @type = 'button' and (text() = ' Register i-Sayang
+' or . = ' Register i-Sayang
+')]</value>
+      <webElementGuid>1101dc8c-a895-4aa4-bb43-414715e42f11</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

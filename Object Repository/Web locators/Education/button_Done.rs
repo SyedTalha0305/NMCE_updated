@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Done</name>
+   <tag></tag>
+   <elementGuidId>3343b150-e455-4973-930d-bd98d87b4192</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='ilifeClose_btn']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#ilifeClose_btn</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Done&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>33aba50c-a782-448e-b809-8fce1fb6771b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ilifeClose_btn</value>
+      <webElementGuid>433e75d9-6c45-4521-a8c2-0fefac77c872</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>e64734e2-18a5-428c-b1d4-c2f55f7d75f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Done
+</value>
+      <webElementGuid>975bb17a-5b01-419b-b04c-5f9719f466f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ilifeClose_btn&quot;)</value>
+      <webElementGuid>393ad205-f934-485c-8434-3e1341971f02</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='ilifeClose_btn']</value>
+      <webElementGuid>fee90b2e-f99b-41ea-9d43-de55d9a6ddc4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//app-button-primary-large[@id='ilifeClose']/button</value>
+      <webElementGuid>fe04d085-2d24-43f0-9183-bd265c35363b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Slide 1 of 1'])[2]/following::button[1]</value>
+      <webElementGuid>29088c63-e28e-4e5f-8a66-ebf170174f7a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Done'])[1]/following::button[2]</value>
+      <webElementGuid>ec69a8cd-d283-4fb2-aae1-af77dd66732c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Slide 1 of 1'])[3]/preceding::button[2]</value>
+      <webElementGuid>198d3e65-622b-422f-ae65-100e2b12e7c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Done'])[3]/preceding::button[2]</value>
+      <webElementGuid>d8c6cb2c-4799-48dc-b860-3ad5e8996858</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div/app-button-primary-large/button</value>
+      <webElementGuid>91026c63-a1fd-44de-a7c8-24ddcf8f50ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'ilifeClose_btn' and @type = 'button' and (text() = ' Done
+' or . = ' Done
+')]</value>
+      <webElementGuid>6a5d4874-7cfd-4484-9c43-6aaaea9cab8b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

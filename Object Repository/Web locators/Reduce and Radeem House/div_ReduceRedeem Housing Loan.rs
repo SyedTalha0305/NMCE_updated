@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_ReduceRedeem Housing Loan</name>
+   <tag></tag>
+   <elementGuidId>f67157bc-ff26-4d4c-a5d3-1aecef54cc1f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='REDHLN'] | (.//*[normalize-space(text()) and normalize-space(.)='Reduce/Redeem Housing Loan'])</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#REDHLN</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#REDHLN</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e4aa42bd-ff90-4902-a467-4cdacdf1aa8e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-item ng-star-inserted</value>
+      <webElementGuid>12303459-ab15-4469-84b9-807c4eed8692</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>REDHLN</value>
+      <webElementGuid>833cc4fc-3179-46f6-91c9-ff7a8657e3bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Reduce/Redeem Housing Loan</value>
+      <webElementGuid>2f687676-937a-41c9-9f98-e8d03b498e1b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;REDHLN&quot;)</value>
+      <webElementGuid>da4b39c0-3187-446b-b05f-6f2957d65e41</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='REDHLN']</value>
+      <webElementGuid>0fab7b5b-d499-47e4-b528-777714ac75ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Housing Loan Monthly Instalment'])[1]/following::div[1]</value>
+      <webElementGuid>39e8b319-4af0-4e07-8d14-4768b629b17b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Health'])[1]/following::div[2]</value>
+      <webElementGuid>95076cb4-79bc-4016-8a29-14df5a968cfa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EN'])[2]/preceding::div[1]</value>
+      <webElementGuid>37251cf4-f40e-42e9-aa6d-0c5f9bc83ca8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]</value>
+      <webElementGuid>73233abb-5615-42db-9107-aa71d6351da0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'REDHLN' and (text() = 'Reduce/Redeem Housing Loan' or . = 'Reduce/Redeem Housing Loan')]</value>
+      <webElementGuid>ca8ae15e-a5a7-4185-a5e9-03ea41448d14</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

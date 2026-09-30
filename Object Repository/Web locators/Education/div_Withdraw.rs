@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Withdraw</name>
+   <tag></tag>
+   <elementGuidId>ddb2b666-955e-4681-9d63-56cf82595d98</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='iLife_WithdrawYourFunds_details']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#iLife_WithdrawYourFunds_details</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Withdraw&quot;s</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>757676ee-7259-4d05-982e-03a590cacb8c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>details d-flex gap-2 align-items-center</value>
+      <webElementGuid>75cb34b2-5908-40a5-b108-6598269278dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>iLife_WithdrawYourFunds_details</value>
+      <webElementGuid>24c9480b-e4f9-44ae-ab89-9fbfe0079105</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Withdraw 
+
+</value>
+      <webElementGuid>d2cc5997-013a-4553-a0d2-0aef241b724d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;iLife_WithdrawYourFunds_details&quot;)</value>
+      <webElementGuid>3a195c49-c9cb-4ef0-a9e5-504e5e56a261</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='iLife_WithdrawYourFunds_details']</value>
+      <webElementGuid>c5c3e8c2-f892-4fc9-a3e8-b4a283b6abde</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='iLife_WithdrawYourFunds_card']/div/div[2]</value>
+      <webElementGuid>76e4f76f-0f64-4b88-bc4f-cc5ff1071919</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Withdraw your savings'])[1]/following::div[1]</value>
+      <webElementGuid>addbcf4e-e306-428e-be3d-92c62e5c27d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View Details'])[1]/following::div[6]</value>
+      <webElementGuid>6f919082-10db-4c8f-b996-254812907c26</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Withdrawal Records'])[1]/preceding::div[2]</value>
+      <webElementGuid>a874c61a-30a4-4113-8cb9-3be64bd9cb90</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Read More'])[1]/preceding::div[3]</value>
+      <webElementGuid>2544b7a8-b218-4b23-b498-9ad6be2a0ec1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Withdraw']/parent::*</value>
+      <webElementGuid>074ad7b8-9f49-433c-abf2-98d7f6070355</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-opportunity-card/div/div/div[2]</value>
+      <webElementGuid>83a5eb60-43d9-4ce9-ac14-fd489c42ef8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'iLife_WithdrawYourFunds_details' and (text() = ' Withdraw 
+
+' or . = ' Withdraw 
+
+')]</value>
+      <webElementGuid>40dd88bb-a9d5-425a-a4e8-fefc4d91c216</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

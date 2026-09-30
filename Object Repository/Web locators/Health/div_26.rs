@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_26</name>
+   <tag></tag>
+   <elementGuidId>df37cffa-a763-4734-b860-625dad201d3f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.mat-calendar-body-cell-content.mat-focus-indicator.mat-calendar-body-today</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='August'])[1]/following::div[51]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;May 26, 2026&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>4e099e94-c899-43e3-9933-faf6fc72c3fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-calendar-body-cell-content mat-focus-indicator mat-calendar-body-today</value>
+      <webElementGuid>79f41ae5-7890-44e3-ac4d-2754c6672f21</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> 26 </value>
+      <webElementGuid>362d8304-034f-419a-a313-f637930ec7b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-datepicker-1&quot;)/div[@class=&quot;mat-calendar-content cdk-focused cdk-program-focused&quot;]/mat-month-view[@class=&quot;ng-star-inserted&quot;]/table[@class=&quot;mat-calendar-table&quot;]/tbody[@class=&quot;mat-calendar-body&quot;]/tr[@class=&quot;ng-star-inserted&quot;]/td[@class=&quot;mat-calendar-body-cell-container ng-star-inserted&quot;]/button[@class=&quot;mat-calendar-body-cell mat-calendar-body-active&quot;]/div[@class=&quot;mat-calendar-body-cell-content mat-focus-indicator mat-calendar-body-today&quot;]</value>
+      <webElementGuid>5a2c0b47-30fb-4ab2-b5d0-4370b96c853a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-calendar[@id='mat-datepicker-1']/div/mat-month-view/table/tbody/tr[5]/td[3]/button/div</value>
+      <webElementGuid>1fc5e0d6-059e-4b66-a5d0-8ca37b1f2102</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MAY'])[1]/following::div[51]</value>
+      <webElementGuid>aafd9346-79fb-4aa0-a594-c31b10bfd095</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Saturday'])[1]/following::div[51]</value>
+      <webElementGuid>e8d615fa-0508-45a8-a273-aa774f844daa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Close calendar'])[1]/preceding::div[12]</value>
+      <webElementGuid>15851a3a-d2c8-45ee-9ffe-45ef3fbd4acb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='26']/parent::*</value>
+      <webElementGuid>5bd78d31-5479-4acd-9bba-76a25ee67461</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[5]/td[3]/button/div</value>
+      <webElementGuid>55b3970c-5e60-4e11-aa92-898e50a74a77</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' 26 ' or . = ' 26 ')]</value>
+      <webElementGuid>5856a9df-6490-4e8e-8ab5-3d7f1cbf8de8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

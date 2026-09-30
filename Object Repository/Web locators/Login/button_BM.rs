@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_BM</name>
+   <tag></tag>
+   <elementGuidId>c7ae5e1e-1052-470a-b1fc-6e46f6a744c7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@type = 'button' and (text() = ' BM ' or . = ' BM ')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='tablet-bar']//button[normalize-space()='BM'] | (//button[@type='button'])[8]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;BM&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>4fc160a3-c86d-40b3-8ff1-ac2d6983e312</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>59996292-c01a-4379-90f4-47daec8f29b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn</value>
+      <webElementGuid>32f7414e-8b49-4e3b-badd-8847d9837806</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> BM </value>
+      <webElementGuid>7e7592ae-594a-4b6c-b372-854396102fec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[1]/app-root[1]/div[1]/app-login[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;position-relative d-flex justify-content-center&quot;]/div[@class=&quot;login-wrapper&quot;]/div[@class=&quot;dual-language-body&quot;]/app-dual-language[1]/div[@class=&quot;d-flex&quot;]/button[@class=&quot;btn&quot;]</value>
+      <webElementGuid>dc50bb94-fe10-4317-b236-be81377e3a9b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>/html/body/div[1]/app-root/div/app-login/div[1]/div[2]/div[2]/app-dual-language/div/button/html/body/div[1]/app-root/div/app-login/div[1]/div[2]/div[2]/app-dual-language/div/button</value>
+      <webElementGuid>1869d85d-4d98-453b-bdee-377731f51c77</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pertama kali? Aktifkan menggunakan OTP'])[1]/following::button[1]</value>
+      <webElementGuid>7ff8a9c4-b14a-43ff-8f04-804b9bf4bfe0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lupa ID pengguna atau kata laluan anda?'])[1]/following::button[2]</value>
+      <webElementGuid>325bf58d-987c-4cc6-88a9-7b713c70a4a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BM'])[2]/preceding::button[1]</value>
+      <webElementGuid>dcdefa22-708e-41de-b7f1-3a4d03cc5d91</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Log Masuk'])[1]/preceding::button[2]</value>
+      <webElementGuid>62237428-1fba-460c-b83a-16701e8ffc2c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='BM']/parent::*</value>
+      <webElementGuid>b72aa877-3741-4906-8baf-94f64f09f592</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-dual-language/div/button</value>
+      <webElementGuid>06331a93-1741-42c7-8845-b95ff510d7de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = ' BM ' or . = ' BM ')]</value>
+      <webElementGuid>7f75dbe4-eb17-4ce6-836e-b5c4ba4aaf78</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

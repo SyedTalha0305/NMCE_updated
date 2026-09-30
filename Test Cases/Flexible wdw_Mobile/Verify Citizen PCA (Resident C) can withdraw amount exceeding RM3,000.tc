@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify Citizen PCA (Resident C) can withdraw amount exceeding RM3,000</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>50275d66-c26f-4115-b930-d7917d5688fa</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>e51c99fd-65ce-4476-81d6-e792a6b3f44f</id>
+      <iterationEntity>
+         <iterationType>SPECIFIC</iterationType>
+         <value>1</value>
+      </iterationEntity>
+      <testDataId>Data Files/Test Data</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>e51c99fd-65ce-4476-81d6-e792a6b3f44f</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>USERNAME</value>
+      <variableId>7b163073-0f83-4fd2-9635-11e14e92ed31</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>e51c99fd-65ce-4476-81d6-e792a6b3f44f</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>PASSWORD</value>
+      <variableId>c2d7c2fe-a5d9-4c15-a66b-9ce2830e3a18</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7b163073-0f83-4fd2-9635-11e14e92ed31</id>
+      <masked>false</masked>
+      <name>USERNAME</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c2d7c2fe-a5d9-4c15-a66b-9ce2830e3a18</id>
+      <masked>false</masked>
+      <name>PASSWORD</name>
+   </variable>
+</TestCaseEntity>

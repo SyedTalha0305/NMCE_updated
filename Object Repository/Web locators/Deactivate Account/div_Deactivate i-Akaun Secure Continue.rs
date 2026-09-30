@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Deactivate i-Akaun Secure Continue</name>
+   <tag></tag>
+   <elementGuidId>e4a2ec4e-07e3-4244-a917-4d45882ab9f7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='security_Menu_Card_deactivateIakaunSecure_card']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#security_Menu_Card_deactivateIakaunSecure_card</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#security_Menu_Card_deactivateIakaunSecure_card</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>0066b6ee-6351-4e3b-bda8-f7d49d98fe0d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>card card-with-icon flex-row ng-star-inserted</value>
+      <webElementGuid>dbbe1a69-dd99-4487-9334-9f5700c4e35b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>security_Menu_Card_deactivateIakaunSecure_card</value>
+      <webElementGuid>c50ee1bd-3219-4541-b9b5-aaf8ea3a9134</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Deactivate i-Akaun Secure Continue 
+
+</value>
+      <webElementGuid>3aef1708-29f9-43da-bc00-e67c19c9f06c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;security_Menu_Card_deactivateIakaunSecure_card&quot;)</value>
+      <webElementGuid>1bcd6332-2679-4af3-ac3b-ca443b94a0e7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='security_Menu_Card_deactivateIakaunSecure_card']</value>
+      <webElementGuid>112dad29-cbf3-4aaf-9c66-2e9a6d38d640</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//app-opportunity-card[@id='security_Menu_Card_deactivateIakaunSecure']/div</value>
+      <webElementGuid>fe2e43aa-6c67-4c1f-8a5d-336a424d7eb2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Continue'])[2]/following::div[3]</value>
+      <webElementGuid>fcea1f37-61b9-4d18-8cf9-1888fc9d169a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Update my security details'])[1]/following::div[4]</value>
+      <webElementGuid>924c6fc9-b987-4f4d-ae38-6b92bbdc1c39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/app-opportunity-card/div</value>
+      <webElementGuid>c6d43092-d75e-4903-b53f-c28d9f48c4a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'security_Menu_Card_deactivateIakaunSecure_card' and (text() = 'Deactivate i-Akaun Secure Continue 
+
+' or . = 'Deactivate i-Akaun Secure Continue 
+
+')]</value>
+      <webElementGuid>ae3fd2d3-9b16-4cbc-b1b1-6ce3ce35b0dd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

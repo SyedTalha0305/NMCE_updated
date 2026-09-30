@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Health</name>
+   <tag></tag>
+   <elementGuidId>291d9d0b-0781-4239-a1fe-d18202f4d1ae</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='MEDICAL']/span | //a[@id='i-Kasih']/label | (.//*[normalize-space(text()) and normalize-space(.)='Health'])</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#MEDICAL > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Health&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>55f06f6a-08d1-4e03-bd7f-770c988a8b46</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Health</value>
+      <webElementGuid>ac4b57d6-2be3-4492-8c24-1310f072dcbb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;MEDICAL&quot;)/span[1]</value>
+      <webElementGuid>405b9a46-4b3e-4169-b8f7-ef00324aba06</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='MEDICAL']/span</value>
+      <webElementGuid>1c2df5b9-6002-40a6-bc96-ab59d6a2cd0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Education'])[1]/following::span[1]</value>
+      <webElementGuid>064e2efd-a831-4e43-be86-49c14a704415</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Buy/Build House'])[1]/following::span[2]</value>
+      <webElementGuid>c0af7f67-6fbf-47b3-a864-e41404a02492</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Housing Loan Monthly Instalment'])[1]/preceding::span[1]</value>
+      <webElementGuid>7c080a10-e34a-4a5e-becc-19e375e8160c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reduce/Redeem Housing Loan'])[1]/preceding::span[2]</value>
+      <webElementGuid>e5c51a33-f095-4c98-a4e6-16eb9b795607</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Health']/parent::*</value>
+      <webElementGuid>84c83001-7ca1-49c6-b0d8-f3acce34bbca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/span</value>
+      <webElementGuid>c9a72d65-b66d-485c-ac18-5ee04cc9868c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Health' or . = 'Health')]</value>
+      <webElementGuid>de53d5cf-5fce-4864-b175-7b3a1b535d29</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

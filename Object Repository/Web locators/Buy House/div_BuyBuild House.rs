@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_BuyBuild House</name>
+   <tag></tag>
+   <elementGuidId>38a1f926-7d13-4cfb-9a83-9e0e677dce03</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='BUY1HSE'] | (.//*[normalize-space(text()) and normalize-space(.)='Buy/Build House'])</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#BUY1HSE</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div >> internal:has-text=/^Buy/Build House$/</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3dae7ef2-5978-412a-a82c-c574f57848a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-item ng-star-inserted</value>
+      <webElementGuid>a113817d-6913-4770-a06b-babf252cb3ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>BUY1HSE</value>
+      <webElementGuid>82aa6aa7-fc3f-4319-8a40-2b6e1b65f819</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Buy/Build House</value>
+      <webElementGuid>c120a1e9-2fba-4263-9684-d7e9f3973984</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;BUY1HSE&quot;)</value>
+      <webElementGuid>7fe90ab9-4527-4600-9b37-f16aa815f78e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='BUY1HSE']</value>
+      <webElementGuid>86967456-e20c-432b-ae5a-d4f7a1496583</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Akaun Fleksibel'])[1]/following::div[1]</value>
+      <webElementGuid>00972979-d01c-4dc8-96a5-c8786c9339ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select your withdrawal type'])[1]/following::div[4]</value>
+      <webElementGuid>45bdbd7c-e059-4702-8416-92d2a22914fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Education'])[1]/preceding::div[1]</value>
+      <webElementGuid>088e3471-1a50-437e-bf78-4ea4d4d76cf4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]</value>
+      <webElementGuid>7d2e07ed-454c-4c32-a86e-c901dcab4f2f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'BUY1HSE' and (text() = 'Buy/Build House' or . = 'Buy/Build House')]</value>
+      <webElementGuid>87185788-53e7-4ae0-a989-a42856d30c96</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

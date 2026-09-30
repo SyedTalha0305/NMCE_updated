@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Withdraw Savings</name>
+   <tag></tag>
+   <elementGuidId>10c5e7f7-0ea0-4097-baea-7dfc97bee35a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#healthWithdrawalWithdrawFundsBtn_btn</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='healthWithdrawalWithdrawFundsBtn_btn']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Withdraw Savings&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>f0532bb1-2f67-4cb4-94a2-fa2b4cc70bd1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>healthWithdrawalWithdrawFundsBtn_btn</value>
+      <webElementGuid>4f2109a0-a7d0-4e17-982d-33483c15a391</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>1934814f-641d-4466-99fa-1b7f821405a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Withdraw Savings
+</value>
+      <webElementGuid>ec8d2885-d2f9-416c-8df8-11855cc3a38f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;healthWithdrawalWithdrawFundsBtn_btn&quot;)</value>
+      <webElementGuid>e99d9f6d-85e5-4c31-823c-2ff3d0fceb19</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='healthWithdrawalWithdrawFundsBtn_btn']</value>
+      <webElementGuid>405fb9e6-d7e8-4ddc-bb3e-de5fc15f99c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//app-button-primary-large[@id='healthWithdrawalWithdrawFundsBtn']/button</value>
+      <webElementGuid>544a5b5b-99c7-4140-b637-b560d4f74641</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Read More'])[1]/following::button[1]</value>
+      <webElementGuid>61d63324-1380-4746-ba8e-aeacde4125ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Terms &amp; conditions'])[1]/following::button[1]</value>
+      <webElementGuid>94d93bbe-6a96-454a-9045-09bceeff5b98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View Details'])[2]/preceding::button[1]</value>
+      <webElementGuid>ce4a5e85-9b3e-4755-adf0-f70d547c696d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Withdraw Savings']/parent::*</value>
+      <webElementGuid>4d9686f5-4bb1-42a9-b781-8e6d0a3ad3c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-button-primary-large/button</value>
+      <webElementGuid>656c5050-595b-4aa2-8571-4032ffa8a28d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'healthWithdrawalWithdrawFundsBtn_btn' and @type = 'button' and (text() = ' Withdraw Savings
+' or . = ' Withdraw Savings
+')]</value>
+      <webElementGuid>9600f578-4f4a-4a87-bd6b-5169ddb00b8b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

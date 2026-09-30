@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Yes, Thats Me</name>
+   <tag></tag>
+   <elementGuidId>0eca5fa8-4cd0-4f4d-87a3-1c5d1af2756a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#initialLoginBtnSecurity_btn</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='initialLoginBtnSecurity_btn']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Yes, That's Me&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>7d36397a-ba40-45e2-b5bf-c9abf90fa6f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>initialLoginBtnSecurity_btn</value>
+      <webElementGuid>0c938e9a-f31a-4814-a57a-ab8da2e2020b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>b8d85be7-2261-45f2-8e6c-ef022026b7d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Yes, That's Me
+</value>
+      <webElementGuid>85a3caa1-2f60-4b7e-a1ab-5f8b5b79e2df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;initialLoginBtnSecurity_btn&quot;)</value>
+      <webElementGuid>2cf79e46-b5b0-42e2-a04b-3e88c6a23243</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='initialLoginBtnSecurity_btn']</value>
+      <webElementGuid>c41e49d6-4cad-4b58-96c9-9e8ddcb82ea9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//app-button-primary-large[@id='initialLoginBtnSecurity']/button</value>
+      <webElementGuid>a2425f25-f340-4bd0-927e-05ff925ce292</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EN'])[1]/following::button[1]</value>
+      <webElementGuid>944c20bc-c1b2-4d92-8bf9-2972edcaa048</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Not Me'])[1]/preceding::button[1]</value>
+      <webElementGuid>7d63c46f-42e1-4131-8a97-a2cc4f4709f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EN'])[2]/preceding::button[3]</value>
+      <webElementGuid>74cda9a9-00fc-4a64-aa42-da1e73f6135c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-button-primary-large/button</value>
+      <webElementGuid>fd97ff65-4f30-4e27-bc1a-d876d26a2673</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'initialLoginBtnSecurity_btn' and @type = 'button' and (text() = concat(&quot; Yes, That&quot; , &quot;'&quot; , &quot;s Me
+&quot;) or . = concat(&quot; Yes, That&quot; , &quot;'&quot; , &quot;s Me
+&quot;))]</value>
+      <webElementGuid>dff081c1-7c4f-4efe-a5a6-8f13426c253f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Contain_text_assertion</name>
+   <tag></tag>
+   <elementGuidId>cbdd041b-c0fc-47a7-941b-bfc4ac4a3d83</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[1]/app-root/div/app-general-layout/div[2]/div/div/div[2]/div/app-health-withdrawal/div/div[2]/div/app-withdrawal-status/app-success-page-v2/app-bg-blue-layout/div[2]/div/div/div[2]/div[2]/div[1]/div[2]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_i-Topup Explore now</name>
+   <tag></tag>
+   <elementGuidId>a8412392-886a-42dd-a254-65b059422809</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#iTopup_Key_card</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='iTopup_Key_card']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#iTopup_Key_card</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>efa964a0-17bb-4f8c-b446-b89153f8e6ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>card card-with-icon flex-row ng-star-inserted</value>
+      <webElementGuid>bb5164e9-e6e3-4203-823e-4d9158702c8f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>iTopup_Key_card</value>
+      <webElementGuid>6c9b765d-755e-4e7c-8513-cb6b02425cc6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>i-Topup Explore now 
+
+</value>
+      <webElementGuid>d582fa1e-3a42-4954-8c10-48113777410b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;iTopup_Key_card&quot;)</value>
+      <webElementGuid>3a0a215a-ac62-45e6-a907-d89e8dd41314</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='iTopup_Key_card']</value>
+      <webElementGuid>49737e69-1068-4369-92d4-6bb332de386a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//app-opportunity-card[@id='iTopup_Key']/div</value>
+      <webElementGuid>e6d48db5-cf96-44de-b013-50ccea9ac048</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Start Now'])[3]/following::div[3]</value>
+      <webElementGuid>cd5ba7d5-5ecd-4893-af7a-05fb152fccfe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Increase savings'])[2]/following::div[4]</value>
+      <webElementGuid>d9ac4fbe-f99c-4c5c-89ba-23eac465abb3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-i-topup-card/app-opportunity-card/div</value>
+      <webElementGuid>23c158f9-624c-4769-b96e-d528ddabb0a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'iTopup_Key_card' and (text() = 'i-Topup Explore now 
+
+' or . = 'i-Topup Explore now 
+
+')]</value>
+      <webElementGuid>cd50e4d6-6865-44ce-84dc-8866ce0b8861</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

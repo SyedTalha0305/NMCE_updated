@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Cancel Application</name>
+   <tag></tag>
+   <elementGuidId>5ba5b296-36ab-424e-83ac-b40e8843ef09</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#profileDetailsConventionalShariahModalCancelApplication_btn</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='profileDetailsConventionalShariahModalCancelApplication_btn'] | (//button[@type='button'])[10]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Cancel Application&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>49a826a4-0cdb-437b-814d-e45c3f14a8f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>profileDetailsConventionalShariahModalCancelApplication_btn</value>
+      <webElementGuid>de6f4929-f8d8-4606-95fc-4af872f3ac63</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>5db93160-48db-4fd6-a5b6-80545d7ec29d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Cancel Application
+</value>
+      <webElementGuid>0edf81ea-76e7-40be-bd6f-76bd56e8ae59</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;profileDetailsConventionalShariahModalCancelApplication_btn&quot;)</value>
+      <webElementGuid>b98ac4d5-1095-430b-a35d-d98601bfdac6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='profileDetailsConventionalShariahModalCancelApplication_btn']</value>
+      <webElementGuid>41c297da-507f-4917-98c9-6444cf2e4465</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//app-button-secondary-large[@id='profileDetailsConventionalShariahModalCancelApplication']/button</value>
+      <webElementGuid>887238ee-442a-4a96-a154-1de8228235cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Print Akad'])[1]/following::button[1]</value>
+      <webElementGuid>42f5930a-791b-4276-b1c9-331e84a25dd8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[2]/following::button[2]</value>
+      <webElementGuid>07c31c8d-0ea1-453c-bded-740d2b69e8b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Cancel Application']/parent::*</value>
+      <webElementGuid>d9a71f0b-7963-400f-a68b-b3c67a74b166</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-button-secondary-large/button</value>
+      <webElementGuid>f2bb5ac0-8333-4b7c-9d71-a79b202ecab5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'profileDetailsConventionalShariahModalCancelApplication_btn' and @type = 'button' and (text() = ' Cancel Application
+' or . = ' Cancel Application
+')]</value>
+      <webElementGuid>340dd6e7-fc78-4e72-aeb6-ac11d4411d8d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

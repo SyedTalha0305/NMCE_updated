@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify Undetermined Resident Status (Resident Q) can withdraw amount exceeding RM3,000</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e59be4a6-15b4-4377-a9dd-b236ecb9e506</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>0d89779c-8ac3-4ef1-99f0-d59de20b6d96</id>
+      <iterationEntity>
+         <iterationType>SPECIFIC</iterationType>
+         <value>7</value>
+      </iterationEntity>
+      <testDataId>Data Files/Test Data</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>0d89779c-8ac3-4ef1-99f0-d59de20b6d96</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>USERNAME</value>
+      <variableId>fb034108-39da-4177-85fd-fe7472ddc416</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>0d89779c-8ac3-4ef1-99f0-d59de20b6d96</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>PASSWORD</value>
+      <variableId>da0932f8-346c-437f-9a6e-620c8dcafc86</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>fb034108-39da-4177-85fd-fe7472ddc416</id>
+      <masked>false</masked>
+      <name>USERNAME</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>da0932f8-346c-437f-9a6e-620c8dcafc86</id>
+      <masked>false</masked>
+      <name>PASSWORD</name>
+   </variable>
+</TestCaseEntity>

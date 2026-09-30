@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Appoint ARB as Administrator</name>
+   <tag></tag>
+   <elementGuidId>4c986364-e78a-4e00-adab-251bd209e315</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='okayBtn_btn']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#okayBtn_btn</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Appoint ARB as Administrator&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>e864d3e9-e824-4dd1-b99a-c03afb50f1b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>okayBtn_btn</value>
+      <webElementGuid>a2e2e027-4954-442e-9d7e-5b7171dace31</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>c4b3ea8a-c921-4007-93a5-5314224e7a51</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Appoint ARB as Administrator
+</value>
+      <webElementGuid>144e4e80-9aff-4c94-a828-023d9f0babaf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;modal-open&quot;]/ngb-modal-window[@class=&quot;d-block definitionModal modal fade show&quot;]/div[@class=&quot;modal-dialog modal-dialog-centered&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body text-start p-0&quot;]/div[@class=&quot;bg-white default-modal&quot;]/div[@class=&quot;button-group&quot;]/app-button-primary-large[@id=&quot;okayBtn&quot;]/button[@id=&quot;okayBtn_btn&quot;]</value>
+      <webElementGuid>b92d0406-0271-4696-b638-eedfbaf5aef7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='okayBtn_btn']</value>
+      <webElementGuid>3ba69410-cc0a-4b62-832d-0993b96b095f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//app-button-primary-large[@id='okayBtn']/button</value>
+      <webElementGuid>5d1b7457-c96f-419c-aa40-8d5fd9545fa8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='the fee charged by ARB will be deducted'])[1]/following::button[1]</value>
+      <webElementGuid>94958a71-0a7d-4696-bd91-b5b80a5cfd5a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='managing 100% of your EPF savings'])[1]/following::button[1]</value>
+      <webElementGuid>f5ec7921-57bb-44a0-a7f9-806f74455258</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/preceding::button[1]</value>
+      <webElementGuid>2ebfd9b2-652a-43ee-a65f-153f960da014</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Appoint ARB as Administrator']/parent::*</value>
+      <webElementGuid>6f7d103e-4ed5-42ac-89de-3278de4f6edf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/app-button-primary-large/button</value>
+      <webElementGuid>a93c42e1-0652-4b6d-9ae5-ee3c336c0632</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'okayBtn_btn' and @type = 'button' and (text() = ' Appoint ARB as Administrator
+' or . = ' Appoint ARB as Administrator
+')]</value>
+      <webElementGuid>3556cc85-0cba-4a5a-983d-e89476ed8778</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

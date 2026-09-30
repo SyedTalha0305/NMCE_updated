@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Country</name>
+   <tag></tag>
+   <elementGuidId>185b7057-706f-498b-9490-791ba20bf78f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.mat-form-field-infix.ng-tns-c62-4</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='editBar']/div/div/div/div[2]/form/mat-form-field/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div >> internal:has-text=/^Country \*$/ >> nth=2</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>288851de-e35d-4946-aa02-4789e85d91d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-form-field-infix ng-tns-c62-4</value>
+      <webElementGuid>56a41c51-714c-4c82-9d97-d310aa1785ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Country *</value>
+      <webElementGuid>eaebe3bb-cae8-4d78-822f-488a938ed9d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;editBar&quot;)/div[@class=&quot;main-space&quot;]/div[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;edit-main&quot;]/div[@class=&quot;edit-body&quot;]/form[@class=&quot;ng-pristine ng-valid ng-touched&quot;]/mat-form-field[@class=&quot;mat-form-field w-100 ng-tns-c62-4 mat-primary mat-form-field-type-mat-input mat-form-field-appearance-fill mat-form-field-can-float mat-form-field-has-label ng-pristine ng-star-inserted mat-form-field-should-float ng-valid ng-touched&quot;]/div[@class=&quot;mat-form-field-wrapper ng-tns-c62-4&quot;]/div[@class=&quot;mat-form-field-flex ng-tns-c62-4&quot;]/div[@class=&quot;mat-form-field-infix ng-tns-c62-4&quot;]</value>
+      <webElementGuid>24d6754e-6d25-4048-8c6e-7758fb1104e3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='editBar']/div/div/div/div[2]/form/mat-form-field/div/div/div</value>
+      <webElementGuid>1cd8b5f1-7e20-408e-afcc-3bb727612406</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Update workplace address'])[1]/following::div[6]</value>
+      <webElementGuid>a619ae07-8f44-4655-854e-58bb38282b17</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Active'])[1]/following::div[16]</value>
+      <webElementGuid>9266abd5-cc25-407e-8680-ebba20ad524a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Address Line 1'])[1]/preceding::div[5]</value>
+      <webElementGuid>1d0ed148-0d0d-46ef-a424-7d7a24e48921</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-form-field/div/div/div</value>
+      <webElementGuid>acb67a51-5069-40be-8342-f5da46a22453</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Country *' or . = 'Country *')]</value>
+      <webElementGuid>f137bbd7-cdbc-465c-b24d-8fc309b74b0e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

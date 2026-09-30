@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_-   Distribution</name>
+   <tag></tag>
+   <elementGuidId>d2c2803b-ca99-41d7-9c34-9e6b8ec4fd1d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='null']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#null</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#null</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f341a3c2-402b-4bf5-925f-4d65148203e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>box-item ng-star-inserted</value>
+      <webElementGuid>0361d0f0-83a3-45af-a2cb-7ce674e2caf1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> - | % Distribution </value>
+      <webElementGuid>0632c131-e219-44d8-967b-a866ca7d0ec5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;null&quot;)</value>
+      <webElementGuid>dc29ad85-2312-4602-a251-1f13729151df</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='null']</value>
+      <webElementGuid>dc186b82-f0d5-4d56-b9ca-b3cc7bd88b6d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='The nominated name as nominees are only act as Wasi or Administrator only.'])[1]/following::div[3]</value>
+      <webElementGuid>fe01a2e7-adbd-4383-a16d-4389bddc596c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='For muslim members only'])[1]/following::div[3]</value>
+      <webElementGuid>5ae1fd2f-b3a9-44d9-bb5f-857f53ddb0e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div[2]/div/div</value>
+      <webElementGuid>b99b39cd-2a01-4daf-9221-bd0b21b5da9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' - | % Distribution ' or . = ' - | % Distribution ')]</value>
+      <webElementGuid>95f5839d-a851-40ca-b7a1-c60c671fe13a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_ALLIED AERONAUTICS TRAINING CENTRE</name>
+   <tag></tag>
+   <elementGuidId>df434634-1782-4be7-8556-0c2dc83afbe9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#mat-option-79 > span.mat-option-text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-option[@id='mat-option-79']/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;ALLIED AERONAUTICS TRAINING CENTRE&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>33bd586e-5f07-4ea2-9eda-e3fe8aa36121</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-option-text</value>
+      <webElementGuid>809d31f4-2e01-4194-b92b-afcfad040953</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> ALLIED AERONAUTICS TRAINING CENTRE </value>
+      <webElementGuid>642efb13-6d97-4026-84a2-bfe46687be28</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-option-79&quot;)/span[@class=&quot;mat-option-text&quot;]</value>
+      <webElementGuid>ce7a28aa-910b-44d9-a3ba-a888076e1961</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-option[@id='mat-option-79']/span</value>
+      <webElementGuid>ee54c0eb-9ded-4f2d-beaa-ba5035429d41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Institution'])[2]/following::span[1]</value>
+      <webElementGuid>0c82bf80-600d-498c-a2b7-a6719bb5e087</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EN'])[2]/following::span[2]</value>
+      <webElementGuid>90ebe12e-55dd-4254-830e-c27ffed7e792</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BANK RAKYAT EDUCATION FINANCING-I FALAH'])[1]/preceding::span[1]</value>
+      <webElementGuid>f4139e30-f1e0-4e21-a1da-a5a669288d38</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='INSTITUT FABS'])[1]/preceding::span[2]</value>
+      <webElementGuid>3796dd01-80a5-4fdc-816b-6c4f4bbd71f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='ALLIED AERONAUTICS TRAINING CENTRE']/parent::*</value>
+      <webElementGuid>3c9477fa-d5e0-4049-bb29-81bc3cd7f6ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-option[2]/span</value>
+      <webElementGuid>bcf0c314-fbaf-43c8-867f-dc0212f34343</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' ALLIED AERONAUTICS TRAINING CENTRE ' or . = ' ALLIED AERONAUTICS TRAINING CENTRE ')]</value>
+      <webElementGuid>9d7dd79b-f28f-458e-893e-4531a528ea08</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

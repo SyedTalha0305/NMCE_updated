@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Register Now</name>
+   <tag></tag>
+   <elementGuidId>405844a9-12ab-488c-b809-be08185ddf15</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#shariahDetailsConventionalShariahApplyNow_btn</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='shariahDetailsConventionalShariahApplyNow_btn']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Register Now&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>d4ee26f3-047d-41a3-ac5d-1fbd7a88f1ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>shariahDetailsConventionalShariahApplyNow_btn</value>
+      <webElementGuid>98c90659-73c1-4169-b22f-3c234cabb32e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>bf5865fd-ba17-4282-8954-0405e7e07296</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Register Now
+</value>
+      <webElementGuid>2d85840e-56f4-405b-a315-516832afe9dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;shariahDetailsConventionalShariahApplyNow_btn&quot;)</value>
+      <webElementGuid>70915146-cd2e-471c-abff-8706e621f5f9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='shariahDetailsConventionalShariahApplyNow_btn']</value>
+      <webElementGuid>7f526661-983a-4bf3-be37-18c260a38778</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//app-button-primary-large[@id='shariahDetailsConventionalShariahApplyNow']/button</value>
+      <webElementGuid>047bdb36-3b88-427b-a579-44d69cf622c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dividends from Simpanan Konvensional are partly derived from shariah non-compliant investments.?'])[1]/following::button[1]</value>
+      <webElementGuid>fe4f5755-5a6c-44ea-bf4d-4c97bf75a849</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Members who do not switch to Shariah Savings will remain with Simpanan Konvensional.?'])[1]/following::button[1]</value>
+      <webElementGuid>d519d4e5-dd0e-433f-963c-888f18cd656f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dividend Purification (Konventional)'])[1]/preceding::button[1]</value>
+      <webElementGuid>ee533fd3-c8ab-47dc-a8bf-7a47b40e3459</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View More'])[1]/preceding::button[1]</value>
+      <webElementGuid>0bbdf07f-007c-4c4f-926e-0ede2d1f17a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Register Now']/parent::*</value>
+      <webElementGuid>563bccdd-f846-4360-857f-106680fd94ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-button-primary-large/button</value>
+      <webElementGuid>bfe30330-3601-498b-86b4-95e9884afbf5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'shariahDetailsConventionalShariahApplyNow_btn' and @type = 'button' and (text() = ' Register Now
+' or . = ' Register Now
+')]</value>
+      <webElementGuid>7de11f0b-3ff3-4e84-857a-75fd84711cf0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Savings</name>
+   <tag></tag>
+   <elementGuidId>fef9f578-30fd-4361-98ee-0507cb578935</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='webInvest'] | (.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/following::div[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#webInvest</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Savings&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>4ea8eefd-4e77-42c9-9939-a8ee1b2d806d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>b5291493-6e1e-4e1a-be5d-10cd7b17b709</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>routerlinkactive</name>
+      <type>Main</type>
+      <value>navbar-active</value>
+      <webElementGuid>99848a51-b7ef-4903-8237-00d86a5fddf1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>webInvest</value>
+      <webElementGuid>b575d3df-a5da-498f-9542-602f02481d13</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ps-0 pe-0</value>
+      <webElementGuid>325999ed-0f0f-416c-ab31-237794def563</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>226978ff-d1e7-48ef-8e6b-6886561f3ee9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+
+Savings</value>
+      <webElementGuid>a630069d-93d9-4fdd-92d9-94ac72fb5023</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;webInvest&quot;)</value>
+      <webElementGuid>d2ada1cb-905f-4df2-83e3-d112c20e89c8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='webInvest']</value>
+      <webElementGuid>ea14b56f-5d4a-4af8-aa9a-8f07cafb1937</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/following::button[1]</value>
+      <webElementGuid>129da9a8-e337-4bbc-9775-ab444fdf8d69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Next'])[1]/following::button[2]</value>
+      <webElementGuid>7f7f10d6-450c-4730-98c6-b7ee4b88093a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Withdrawal'])[1]/preceding::button[1]</value>
+      <webElementGuid>b09e053e-e450-4ef8-95b0-4e2d69d9a482</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button</value>
+      <webElementGuid>abc223cc-7788-4e3d-97bc-e9a585657be3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and @id = 'webInvest' and (text() = '
+
+Savings' or . = '
+
+Savings')]</value>
+      <webElementGuid>bdbb6c0d-459a-4d9a-b7b8-96b0aee1ed4f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
